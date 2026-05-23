@@ -1,0 +1,6690 @@
+[
+  {
+    "year": 1950,
+    "total_global_tiv": 8150.0199999999995,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 4070.84
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2193.96
+      },
+      {
+        "iso": "USA",
+        "tiv": 1447.31
+      },
+      {
+        "iso": "NLD",
+        "tiv": 198.67
+      },
+      {
+        "iso": "ITA",
+        "tiv": 118.74
+      },
+      {
+        "iso": "CAN",
+        "tiv": 37.5
+      },
+      {
+        "iso": "SWE",
+        "tiv": 27.0
+      },
+      {
+        "iso": "unknown supplier(s)",
+        "tiv": 23.0
+      },
+      {
+        "iso": "CSK",
+        "tiv": 17.22
+      },
+      {
+        "iso": "FRA",
+        "tiv": 14.02
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 2626.3199999999997
+      },
+      {
+        "iso": "PRK",
+        "tiv": 885.44
+      },
+      {
+        "iso": "AUS",
+        "tiv": 464.3
+      },
+      {
+        "iso": "USA",
+        "tiv": 312.8
+      },
+      {
+        "iso": "CAN",
+        "tiv": 263.56
+      },
+      {
+        "iso": "SWE",
+        "tiv": 241.57999999999998
+      },
+      {
+        "iso": "BEL",
+        "tiv": 229.06
+      },
+      {
+        "iso": "ITA",
+        "tiv": 195.76
+      },
+      {
+        "iso": "IDN",
+        "tiv": 195.15
+      },
+      {
+        "iso": "POL",
+        "tiv": 194.75
+      }
+    ]
+  },
+  {
+    "year": 1951,
+    "total_global_tiv": 11476.779999999999,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 3988.03
+      },
+      {
+        "iso": "SUN",
+        "tiv": 3727.75
+      },
+      {
+        "iso": "GBR",
+        "tiv": 3356.66
+      },
+      {
+        "iso": "ITA",
+        "tiv": 105.82
+      },
+      {
+        "iso": "FRA",
+        "tiv": 78.2
+      },
+      {
+        "iso": "NLD",
+        "tiv": 62.56
+      },
+      {
+        "iso": "CAN",
+        "tiv": 54.72
+      },
+      {
+        "iso": "SWE",
+        "tiv": 46.4
+      },
+      {
+        "iso": "NOR",
+        "tiv": 30.0
+      },
+      {
+        "iso": "CSK",
+        "tiv": 15.14
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 2245.75
+      },
+      {
+        "iso": "FRA",
+        "tiv": 967.06
+      },
+      {
+        "iso": "BRA",
+        "tiv": 615.2
+      },
+      {
+        "iso": "USA",
+        "tiv": 595.3
+      },
+      {
+        "iso": "POL",
+        "tiv": 590.14
+      },
+      {
+        "iso": "GRC",
+        "tiv": 500.02000000000004
+      },
+      {
+        "iso": "BEL",
+        "tiv": 461.34
+      },
+      {
+        "iso": "NLD",
+        "tiv": 453.88
+      },
+      {
+        "iso": "ARG",
+        "tiv": 444.68
+      },
+      {
+        "iso": "PRK",
+        "tiv": 405.99
+      }
+    ]
+  },
+  {
+    "year": 1952,
+    "total_global_tiv": 16619.449999999997,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 6987.43
+      },
+      {
+        "iso": "SUN",
+        "tiv": 6018.41
+      },
+      {
+        "iso": "GBR",
+        "tiv": 3106.42
+      },
+      {
+        "iso": "CAN",
+        "tiv": 268.02
+      },
+      {
+        "iso": "FRA",
+        "tiv": 78.44
+      },
+      {
+        "iso": "SWE",
+        "tiv": 63.8
+      },
+      {
+        "iso": "AUS",
+        "tiv": 36.0
+      },
+      {
+        "iso": "ITA",
+        "tiv": 24.0
+      },
+      {
+        "iso": "NLD",
+        "tiv": 20.490000000000002
+      },
+      {
+        "iso": "CSK",
+        "tiv": 15.84
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 3478.0
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1149.91
+      },
+      {
+        "iso": "CAN",
+        "tiv": 1025.3400000000001
+      },
+      {
+        "iso": "BEL",
+        "tiv": 972.0
+      },
+      {
+        "iso": "ITA",
+        "tiv": 937.08
+      },
+      {
+        "iso": "POL",
+        "tiv": 804.2
+      },
+      {
+        "iso": "USA",
+        "tiv": 775.3
+      },
+      {
+        "iso": "CSK",
+        "tiv": 715.4
+      },
+      {
+        "iso": "GBR",
+        "tiv": 535.44
+      },
+      {
+        "iso": "YUG",
+        "tiv": 479.84000000000003
+      }
+    ]
+  },
+  {
+    "year": 1953,
+    "total_global_tiv": 23558.829999999998,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 9791.07
+      },
+      {
+        "iso": "SUN",
+        "tiv": 8723.87
+      },
+      {
+        "iso": "GBR",
+        "tiv": 4434.5
+      },
+      {
+        "iso": "FRA",
+        "tiv": 300.93
+      },
+      {
+        "iso": "SWE",
+        "tiv": 165.1
+      },
+      {
+        "iso": "CAN",
+        "tiv": 76.22
+      },
+      {
+        "iso": "DEU",
+        "tiv": 37.5
+      },
+      {
+        "iso": "CSK",
+        "tiv": 8.9
+      },
+      {
+        "iso": "NOR",
+        "tiv": 8.0
+      },
+      {
+        "iso": "NLD",
+        "tiv": 7.3
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 3142.5
+      },
+      {
+        "iso": "CAN",
+        "tiv": 1888.7
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1719.82
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1614.5
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1609.57
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1314.6
+      },
+      {
+        "iso": "USA",
+        "tiv": 1215.3
+      },
+      {
+        "iso": "BEL",
+        "tiv": 1098.25
+      },
+      {
+        "iso": "POL",
+        "tiv": 1037.2
+      },
+      {
+        "iso": "NLD",
+        "tiv": 972.21
+      }
+    ]
+  },
+  {
+    "year": 1954,
+    "total_global_tiv": 20441.71,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 8733.75
+      },
+      {
+        "iso": "USA",
+        "tiv": 6349.73
+      },
+      {
+        "iso": "GBR",
+        "tiv": 4513.65
+      },
+      {
+        "iso": "FRA",
+        "tiv": 265.52
+      },
+      {
+        "iso": "CAN",
+        "tiv": 209.71
+      },
+      {
+        "iso": "CSK",
+        "tiv": 199.5
+      },
+      {
+        "iso": "NLD",
+        "tiv": 71.6
+      },
+      {
+        "iso": "DEU",
+        "tiv": 28.7
+      },
+      {
+        "iso": "FIN",
+        "tiv": 25.0
+      },
+      {
+        "iso": "SWE",
+        "tiv": 20.509999999999998
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 3498.84
+      },
+      {
+        "iso": "POL",
+        "tiv": 1980.4
+      },
+      {
+        "iso": "USA",
+        "tiv": 1796.05
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1769.68
+      },
+      {
+        "iso": "CAN",
+        "tiv": 1247.51
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1009.5
+      },
+      {
+        "iso": "NLD",
+        "tiv": 784.14
+      },
+      {
+        "iso": "Hungary",
+        "tiv": 728.8
+      },
+      {
+        "iso": "BGR",
+        "tiv": 688.8
+      },
+      {
+        "iso": "ROU",
+        "tiv": 625.85
+      }
+    ]
+  },
+  {
+    "year": 1955,
+    "total_global_tiv": 20486.07,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 7081.12
+      },
+      {
+        "iso": "SUN",
+        "tiv": 5922.31
+      },
+      {
+        "iso": "GBR",
+        "tiv": 4799.17
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1355.8
+      },
+      {
+        "iso": "FRA",
+        "tiv": 347.85
+      },
+      {
+        "iso": "NLD",
+        "tiv": 255.1
+      },
+      {
+        "iso": "CAN",
+        "tiv": 189.82
+      },
+      {
+        "iso": "ITA",
+        "tiv": 138.0
+      },
+      {
+        "iso": "AUS",
+        "tiv": 125.0
+      },
+      {
+        "iso": "JPN",
+        "tiv": 109.6
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 1804.06
+      },
+      {
+        "iso": "USA",
+        "tiv": 1792.3
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1646.88
+      },
+      {
+        "iso": "CAN",
+        "tiv": 1400.0700000000002
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1062.3
+      },
+      {
+        "iso": "POL",
+        "tiv": 1060.3
+      },
+      {
+        "iso": "SUN",
+        "tiv": 945.0
+      },
+      {
+        "iso": "EGY",
+        "tiv": 729.44
+      },
+      {
+        "iso": "NLD",
+        "tiv": 722.04
+      },
+      {
+        "iso": "AUS",
+        "tiv": 636.96
+      }
+    ]
+  },
+  {
+    "year": 1956,
+    "total_global_tiv": 24663.98,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 8605.59
+      },
+      {
+        "iso": "SUN",
+        "tiv": 6539.76
+      },
+      {
+        "iso": "GBR",
+        "tiv": 5846.59
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1873.56
+      },
+      {
+        "iso": "FRA",
+        "tiv": 988.31
+      },
+      {
+        "iso": "CAN",
+        "tiv": 296.95
+      },
+      {
+        "iso": "ITA",
+        "tiv": 263.46
+      },
+      {
+        "iso": "SWE",
+        "tiv": 95.2
+      },
+      {
+        "iso": "JPN",
+        "tiv": 38.0
+      },
+      {
+        "iso": "BEL",
+        "tiv": 28.8
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 2266.3
+      },
+      {
+        "iso": "USA",
+        "tiv": 1970.8
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1559.8999999999999
+      },
+      {
+        "iso": "SUN",
+        "tiv": 1537.5
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1520.71
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1203.02
+      },
+      {
+        "iso": "NLD",
+        "tiv": 1109.99
+      },
+      {
+        "iso": "ITA",
+        "tiv": 941.23
+      },
+      {
+        "iso": "JPN",
+        "tiv": 765.35
+      },
+      {
+        "iso": "ISR",
+        "tiv": 753.95
+      }
+    ]
+  },
+  {
+    "year": 1957,
+    "total_global_tiv": 23621.0,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 8410.77
+      },
+      {
+        "iso": "SUN",
+        "tiv": 6577.66
+      },
+      {
+        "iso": "GBR",
+        "tiv": 4915.89
+      },
+      {
+        "iso": "CSK",
+        "tiv": 2185.46
+      },
+      {
+        "iso": "FRA",
+        "tiv": 615.74
+      },
+      {
+        "iso": "CAN",
+        "tiv": 335.66
+      },
+      {
+        "iso": "ITA",
+        "tiv": 282.61
+      },
+      {
+        "iso": "SWE",
+        "tiv": 111.07
+      },
+      {
+        "iso": "JPN",
+        "tiv": 52.0
+      },
+      {
+        "iso": "DEU",
+        "tiv": 43.5
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "DEU",
+        "tiv": 2230.46
+      },
+      {
+        "iso": "CHN",
+        "tiv": 2142.95
+      },
+      {
+        "iso": "SUN",
+        "tiv": 1500.0
+      },
+      {
+        "iso": "USA",
+        "tiv": 1210.8
+      },
+      {
+        "iso": "POL",
+        "tiv": 1105.03
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 1096.07
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1022.6
+      },
+      {
+        "iso": "EGY",
+        "tiv": 997.68
+      },
+      {
+        "iso": "IND",
+        "tiv": 924.71
+      },
+      {
+        "iso": "FRA",
+        "tiv": 743.39
+      }
+    ]
+  },
+  {
+    "year": 1958,
+    "total_global_tiv": 25041.1,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 9335.05
+      },
+      {
+        "iso": "SUN",
+        "tiv": 7820.96
+      },
+      {
+        "iso": "GBR",
+        "tiv": 3885.87
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1525.68
+      },
+      {
+        "iso": "FRA",
+        "tiv": 753.09
+      },
+      {
+        "iso": "CAN",
+        "tiv": 544.11
+      },
+      {
+        "iso": "CHN",
+        "tiv": 489.58
+      },
+      {
+        "iso": "SWE",
+        "tiv": 280.4
+      },
+      {
+        "iso": "ITA",
+        "tiv": 238.72
+      },
+      {
+        "iso": "YUG",
+        "tiv": 71.0
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 2794.85
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2773.58
+      },
+      {
+        "iso": "SUN",
+        "tiv": 1500.0
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1177.85
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1133.34
+      },
+      {
+        "iso": "POL",
+        "tiv": 1093.25
+      },
+      {
+        "iso": "IND",
+        "tiv": 1069.07
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 944.5699999999999
+      },
+      {
+        "iso": "BEL",
+        "tiv": 886.65
+      },
+      {
+        "iso": "PRK",
+        "tiv": 874.25
+      }
+    ]
+  },
+  {
+    "year": 1959,
+    "total_global_tiv": 21208.940000000002,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 7870.96
+      },
+      {
+        "iso": "USA",
+        "tiv": 7293.33
+      },
+      {
+        "iso": "GBR",
+        "tiv": 3425.38
+      },
+      {
+        "iso": "CSK",
+        "tiv": 942.78
+      },
+      {
+        "iso": "FRA",
+        "tiv": 769.9
+      },
+      {
+        "iso": "CHN",
+        "tiv": 402.5
+      },
+      {
+        "iso": "CAN",
+        "tiv": 119.34
+      },
+      {
+        "iso": "DEU",
+        "tiv": 92.5
+      },
+      {
+        "iso": "FIN",
+        "tiv": 75.0
+      },
+      {
+        "iso": "CHE",
+        "tiv": 48.6
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 3175.57
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1482.1
+      },
+      {
+        "iso": "POL",
+        "tiv": 1030.75
+      },
+      {
+        "iso": "SUN",
+        "tiv": 975.0
+      },
+      {
+        "iso": "TWN",
+        "tiv": 920.91
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 904.0
+      },
+      {
+        "iso": "IND",
+        "tiv": 901.89
+      },
+      {
+        "iso": "CSK",
+        "tiv": 840.0
+      },
+      {
+        "iso": "FRA",
+        "tiv": 815.39
+      },
+      {
+        "iso": "JPN",
+        "tiv": 666.1899999999999
+      }
+    ]
+  },
+  {
+    "year": 1960,
+    "total_global_tiv": 17600.03,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 6414.37
+      },
+      {
+        "iso": "USA",
+        "tiv": 6126.55
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2186.65
+      },
+      {
+        "iso": "FRA",
+        "tiv": 866.39
+      },
+      {
+        "iso": "CSK",
+        "tiv": 664.64
+      },
+      {
+        "iso": "CHE",
+        "tiv": 434.5
+      },
+      {
+        "iso": "CHN",
+        "tiv": 285.0
+      },
+      {
+        "iso": "DEU",
+        "tiv": 156.48
+      },
+      {
+        "iso": "ITA",
+        "tiv": 105.01
+      },
+      {
+        "iso": "FIN",
+        "tiv": 75.0
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 2357.33
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2036.22
+      },
+      {
+        "iso": "POL",
+        "tiv": 888.75
+      },
+      {
+        "iso": "JPN",
+        "tiv": 789.95
+      },
+      {
+        "iso": "SUN",
+        "tiv": 692.26
+      },
+      {
+        "iso": "Hungary",
+        "tiv": 603.9
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 580.78
+      },
+      {
+        "iso": "IND",
+        "tiv": 544.05
+      },
+      {
+        "iso": "CSK",
+        "tiv": 534.0
+      },
+      {
+        "iso": "FRA",
+        "tiv": 525.66
+      }
+    ]
+  },
+  {
+    "year": 1961,
+    "total_global_tiv": 16397.59,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 6286.97
+      },
+      {
+        "iso": "SUN",
+        "tiv": 6247.18
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1401.43
+      },
+      {
+        "iso": "FRA",
+        "tiv": 855.55
+      },
+      {
+        "iso": "CHE",
+        "tiv": 492.5
+      },
+      {
+        "iso": "CAN",
+        "tiv": 300.36
+      },
+      {
+        "iso": "ITA",
+        "tiv": 246.24999999999997
+      },
+      {
+        "iso": "CSK",
+        "tiv": 204.88
+      },
+      {
+        "iso": "NLD",
+        "tiv": 105.0
+      },
+      {
+        "iso": "JPN",
+        "tiv": 61.06
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "DEU",
+        "tiv": 2092.82
+      },
+      {
+        "iso": "CAN",
+        "tiv": 1576.1299999999999
+      },
+      {
+        "iso": "IND",
+        "tiv": 1148.1299999999999
+      },
+      {
+        "iso": "CHN",
+        "tiv": 952.31
+      },
+      {
+        "iso": "POL",
+        "tiv": 864.45
+      },
+      {
+        "iso": "IDN",
+        "tiv": 779.59
+      },
+      {
+        "iso": "CSK",
+        "tiv": 662.9
+      },
+      {
+        "iso": "Hungary",
+        "tiv": 579.96
+      },
+      {
+        "iso": "EGY",
+        "tiv": 544.33
+      },
+      {
+        "iso": "CUB",
+        "tiv": 524.2
+      }
+    ]
+  },
+  {
+    "year": 1962,
+    "total_global_tiv": 17526.379999999997,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 7749.6
+      },
+      {
+        "iso": "USA",
+        "tiv": 6126.61
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1065.2
+      },
+      {
+        "iso": "FRA",
+        "tiv": 912.26
+      },
+      {
+        "iso": "CHE",
+        "tiv": 534.02
+      },
+      {
+        "iso": "ITA",
+        "tiv": 261.64
+      },
+      {
+        "iso": "CAN",
+        "tiv": 188.1
+      },
+      {
+        "iso": "CSK",
+        "tiv": 176.68
+      },
+      {
+        "iso": "DEU",
+        "tiv": 146.09
+      },
+      {
+        "iso": "JPN",
+        "tiv": 100.0
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "DEU",
+        "tiv": 2501.23
+      },
+      {
+        "iso": "CUB",
+        "tiv": 1337.01
+      },
+      {
+        "iso": "CAN",
+        "tiv": 1220.34
+      },
+      {
+        "iso": "IDN",
+        "tiv": 1025.85
+      },
+      {
+        "iso": "ITA",
+        "tiv": 885.96
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 763.9399999999999
+      },
+      {
+        "iso": "EGY",
+        "tiv": 685.08
+      },
+      {
+        "iso": "POL",
+        "tiv": 684.75
+      },
+      {
+        "iso": "CSK",
+        "tiv": 542.9
+      },
+      {
+        "iso": "BGR",
+        "tiv": 492.75
+      }
+    ]
+  },
+  {
+    "year": 1963,
+    "total_global_tiv": 20273.449999999997,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 9424.64
+      },
+      {
+        "iso": "SUN",
+        "tiv": 6865.85
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1329.75
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1244.01
+      },
+      {
+        "iso": "CHE",
+        "tiv": 350.92
+      },
+      {
+        "iso": "CAN",
+        "tiv": 245.15
+      },
+      {
+        "iso": "ITA",
+        "tiv": 240.85
+      },
+      {
+        "iso": "CSK",
+        "tiv": 141.68
+      },
+      {
+        "iso": "DEU",
+        "tiv": 133.32
+      },
+      {
+        "iso": "POL",
+        "tiv": 110.95
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "DEU",
+        "tiv": 3311.74
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1219.48
+      },
+      {
+        "iso": "POL",
+        "tiv": 1020.4
+      },
+      {
+        "iso": "CAN",
+        "tiv": 1011.8399999999999
+      },
+      {
+        "iso": "NLD",
+        "tiv": 766.94
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 766.56
+      },
+      {
+        "iso": "EGY",
+        "tiv": 740.68
+      },
+      {
+        "iso": "IND",
+        "tiv": 694.89
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 585.6
+      },
+      {
+        "iso": "CSK",
+        "tiv": 584.5
+      }
+    ]
+  },
+  {
+    "year": 1964,
+    "total_global_tiv": 26726.75,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 12490.27
+      },
+      {
+        "iso": "SUN",
+        "tiv": 8760.71
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1573.97
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1408.27
+      },
+      {
+        "iso": "DEU",
+        "tiv": 436.52
+      },
+      {
+        "iso": "CHE",
+        "tiv": 393.75
+      },
+      {
+        "iso": "ITA",
+        "tiv": 384.85999999999996
+      },
+      {
+        "iso": "CAN",
+        "tiv": 272.6
+      },
+      {
+        "iso": "CSK",
+        "tiv": 269.88
+      },
+      {
+        "iso": "POL",
+        "tiv": 237.01
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "DEU",
+        "tiv": 3827.9199999999996
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1715.6999999999998
+      },
+      {
+        "iso": "POL",
+        "tiv": 1572.2
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1300.4
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1141.05
+      },
+      {
+        "iso": "NLD",
+        "tiv": 1013.71
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 991.49
+      },
+      {
+        "iso": "EGY",
+        "tiv": 850.63
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 838.5
+      },
+      {
+        "iso": "IND",
+        "tiv": 793.54
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "total_global_tiv": 25821.04,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 12000.49
+      },
+      {
+        "iso": "SUN",
+        "tiv": 8532.289999999999
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1497.71
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1333.12
+      },
+      {
+        "iso": "CHE",
+        "tiv": 483.75
+      },
+      {
+        "iso": "CHN",
+        "tiv": 387.44
+      },
+      {
+        "iso": "CSK",
+        "tiv": 326.68
+      },
+      {
+        "iso": "DEU",
+        "tiv": 326.59000000000003
+      },
+      {
+        "iso": "ITA",
+        "tiv": 295.68
+      },
+      {
+        "iso": "POL",
+        "tiv": 234.01
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "DEU",
+        "tiv": 3515.48
+      },
+      {
+        "iso": "POL",
+        "tiv": 1162.4
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1155.25
+      },
+      {
+        "iso": "IND",
+        "tiv": 1004.38
+      },
+      {
+        "iso": "EGY",
+        "tiv": 962.1500000000001
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 923.87
+      },
+      {
+        "iso": "AUS",
+        "tiv": 919.6
+      },
+      {
+        "iso": "NLD",
+        "tiv": 815.45
+      },
+      {
+        "iso": "ITA",
+        "tiv": 736.35
+      },
+      {
+        "iso": "CSK",
+        "tiv": 691.65
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "total_global_tiv": 25770.37,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 10229.79
+      },
+      {
+        "iso": "USA",
+        "tiv": 8944.31
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1896.22
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1421.23
+      },
+      {
+        "iso": "DEU",
+        "tiv": 710.88
+      },
+      {
+        "iso": "CHN",
+        "tiv": 628.03
+      },
+      {
+        "iso": "CSK",
+        "tiv": 428.08
+      },
+      {
+        "iso": "CHE",
+        "tiv": 366.85
+      },
+      {
+        "iso": "POL",
+        "tiv": 319.16
+      },
+      {
+        "iso": "ITA",
+        "tiv": 243.38
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "DEU",
+        "tiv": 3386.5099999999998
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1539.85
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 1341.3
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1138.32
+      },
+      {
+        "iso": "POL",
+        "tiv": 1004.0999999999999
+      },
+      {
+        "iso": "IND",
+        "tiv": 961.46
+      },
+      {
+        "iso": "PRK",
+        "tiv": 832.4
+      },
+      {
+        "iso": "NOR",
+        "tiv": 759.44
+      },
+      {
+        "iso": "AUS",
+        "tiv": 707.12
+      },
+      {
+        "iso": "CSK",
+        "tiv": 690.15
+      }
+    ]
+  },
+  {
+    "year": 1967,
+    "total_global_tiv": 25572.629999999997,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 11581.54
+      },
+      {
+        "iso": "USA",
+        "tiv": 7436.61
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1878.77
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1601.52
+      },
+      {
+        "iso": "DEU",
+        "tiv": 757.96
+      },
+      {
+        "iso": "CSK",
+        "tiv": 450.18
+      },
+      {
+        "iso": "CHN",
+        "tiv": 425.86
+      },
+      {
+        "iso": "POL",
+        "tiv": 309.19
+      },
+      {
+        "iso": "CHE",
+        "tiv": 261.3
+      },
+      {
+        "iso": "NOR",
+        "tiv": 164.0
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "EGY",
+        "tiv": 2240.6
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1443.5
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1384.7
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 1190.75
+      },
+      {
+        "iso": "IND",
+        "tiv": 1131.87
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1102.96
+      },
+      {
+        "iso": "SYR",
+        "tiv": 905.2
+      },
+      {
+        "iso": "PRK",
+        "tiv": 845.75
+      },
+      {
+        "iso": "POL",
+        "tiv": 781.4
+      },
+      {
+        "iso": "AUS",
+        "tiv": 769.55
+      }
+    ]
+  },
+  {
+    "year": 1968,
+    "total_global_tiv": 26129.239999999998,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 11008.52
+      },
+      {
+        "iso": "USA",
+        "tiv": 8618.58
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1679.27
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1504.39
+      },
+      {
+        "iso": "CHN",
+        "tiv": 745.54
+      },
+      {
+        "iso": "DEU",
+        "tiv": 587.67
+      },
+      {
+        "iso": "CSK",
+        "tiv": 505.73
+      },
+      {
+        "iso": "NLD",
+        "tiv": 352.44
+      },
+      {
+        "iso": "POL",
+        "tiv": 287.92
+      },
+      {
+        "iso": "CAN",
+        "tiv": 197.84
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "GBR",
+        "tiv": 2348.0
+      },
+      {
+        "iso": "IND",
+        "tiv": 1371.9
+      },
+      {
+        "iso": "PRK",
+        "tiv": 1307.7
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1276.41
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 1257.8
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1248.5
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1179.04
+      },
+      {
+        "iso": "POL",
+        "tiv": 926.9499999999999
+      },
+      {
+        "iso": "ISR",
+        "tiv": 926.27
+      },
+      {
+        "iso": "IRN",
+        "tiv": 916.5
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "total_global_tiv": 28135.940000000002,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 11631.52
+      },
+      {
+        "iso": "SUN",
+        "tiv": 9754.51
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1614.58
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1518.39
+      },
+      {
+        "iso": "DEU",
+        "tiv": 882.2
+      },
+      {
+        "iso": "CHN",
+        "tiv": 669.39
+      },
+      {
+        "iso": "CSK",
+        "tiv": 666.1800000000001
+      },
+      {
+        "iso": "ITA",
+        "tiv": 325.21
+      },
+      {
+        "iso": "POL",
+        "tiv": 322.72
+      },
+      {
+        "iso": "CAN",
+        "tiv": 182.75
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "GBR",
+        "tiv": 2701.25
+      },
+      {
+        "iso": "IND",
+        "tiv": 1366.04
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1365.3799999999999
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1242.41
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1233.1000000000001
+      },
+      {
+        "iso": "POL",
+        "tiv": 991.95
+      },
+      {
+        "iso": "IRN",
+        "tiv": 949.65
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 908.65
+      },
+      {
+        "iso": "SYR",
+        "tiv": 875.3
+      },
+      {
+        "iso": "CSK",
+        "tiv": 846.4
+      }
+    ]
+  },
+  {
+    "year": 1970,
+    "total_global_tiv": 25269.620000000003,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 10100.94
+      },
+      {
+        "iso": "USA",
+        "tiv": 8350.28
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1734.89
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1583.51
+      },
+      {
+        "iso": "GBR",
+        "tiv": 982.28
+      },
+      {
+        "iso": "CHN",
+        "tiv": 904.74
+      },
+      {
+        "iso": "CSK",
+        "tiv": 435.13
+      },
+      {
+        "iso": "ITA",
+        "tiv": 280.1
+      },
+      {
+        "iso": "POL",
+        "tiv": 268.47
+      },
+      {
+        "iso": "CAN",
+        "tiv": 198.42
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "EGY",
+        "tiv": 1982.93
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1257.16
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1214.35
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1188.61
+      },
+      {
+        "iso": "IND",
+        "tiv": 962.54
+      },
+      {
+        "iso": "IRN",
+        "tiv": 898.51
+      },
+      {
+        "iso": "SYR",
+        "tiv": 870.2
+      },
+      {
+        "iso": "POL",
+        "tiv": 859.4
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 833.39
+      },
+      {
+        "iso": "BGR",
+        "tiv": 770.5
+      }
+    ]
+  },
+  {
+    "year": 1971,
+    "total_global_tiv": 32851.14,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 11606.08
+      },
+      {
+        "iso": "SUN",
+        "tiv": 11387.23
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2363.31
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2346.25
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1355.72
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1307.96
+      },
+      {
+        "iso": "SWE",
+        "tiv": 546.95
+      },
+      {
+        "iso": "CSK",
+        "tiv": 419.6
+      },
+      {
+        "iso": "ITA",
+        "tiv": 382.87
+      },
+      {
+        "iso": "CAN",
+        "tiv": 290.23
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "DEU",
+        "tiv": 2240.2999999999997
+      },
+      {
+        "iso": "IRN",
+        "tiv": 2098.85
+      },
+      {
+        "iso": "IND",
+        "tiv": 2018.8700000000001
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1981.95
+      },
+      {
+        "iso": "PRK",
+        "tiv": 1501.8
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1413.3
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1196.96
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1103.8899999999999
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1100.0
+      },
+      {
+        "iso": "POL",
+        "tiv": 1008.65
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "total_global_tiv": 34526.34,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 13412.76
+      },
+      {
+        "iso": "USA",
+        "tiv": 10674.11
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2693.9700000000003
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2684.11
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1358.79
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1246.34
+      },
+      {
+        "iso": "CSK",
+        "tiv": 647.65
+      },
+      {
+        "iso": "CAN",
+        "tiv": 323.42
+      },
+      {
+        "iso": "ITA",
+        "tiv": 284.3
+      },
+      {
+        "iso": "POL",
+        "tiv": 276.32
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "EGY",
+        "tiv": 3254.85
+      },
+      {
+        "iso": "VNM",
+        "tiv": 2551.07
+      },
+      {
+        "iso": "IND",
+        "tiv": 2092.77
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1765.69
+      },
+      {
+        "iso": "SYR",
+        "tiv": 1516.65
+      },
+      {
+        "iso": "IRN",
+        "tiv": 1375.33
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1317.17
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1094.3700000000001
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 991.52
+      },
+      {
+        "iso": "ISR",
+        "tiv": 962.69
+      }
+    ]
+  },
+  {
+    "year": 1973,
+    "total_global_tiv": 36300.0,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 15795.67
+      },
+      {
+        "iso": "USA",
+        "tiv": 12003.42
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2974.04
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2791.2400000000002
+      },
+      {
+        "iso": "CSK",
+        "tiv": 670.02
+      },
+      {
+        "iso": "CHN",
+        "tiv": 657.95
+      },
+      {
+        "iso": "ITA",
+        "tiv": 328.02
+      },
+      {
+        "iso": "DEU",
+        "tiv": 221.56
+      },
+      {
+        "iso": "NLD",
+        "tiv": 202.94
+      },
+      {
+        "iso": "POL",
+        "tiv": 158.3
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "SYR",
+        "tiv": 3282.1
+      },
+      {
+        "iso": "EGY",
+        "tiv": 2606.87
+      },
+      {
+        "iso": "ISR",
+        "tiv": 2181.68
+      },
+      {
+        "iso": "IRN",
+        "tiv": 2051.44
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1846.0
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1721.2
+      },
+      {
+        "iso": "IND",
+        "tiv": 1511.3
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1283.1
+      },
+      {
+        "iso": "POL",
+        "tiv": 1109.6
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 1059.17
+      }
+    ]
+  },
+  {
+    "year": 1974,
+    "total_global_tiv": 36584.229999999996,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 15251.77
+      },
+      {
+        "iso": "USA",
+        "tiv": 12742.29
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2249.14
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2179.72
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1187.04
+      },
+      {
+        "iso": "CSK",
+        "tiv": 886.28
+      },
+      {
+        "iso": "CHN",
+        "tiv": 508.3
+      },
+      {
+        "iso": "ITA",
+        "tiv": 409.1
+      },
+      {
+        "iso": "POL",
+        "tiv": 249.48000000000002
+      },
+      {
+        "iso": "IRN",
+        "tiv": 129.2
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "SYR",
+        "tiv": 3410.38
+      },
+      {
+        "iso": "IRN",
+        "tiv": 2854.8399999999997
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2140.75
+      },
+      {
+        "iso": "LBY",
+        "tiv": 1766.52
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1425.0
+      },
+      {
+        "iso": "IND",
+        "tiv": 1330.85
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1278.6
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1121.04
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1107.78
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1087.1
+      }
+    ]
+  },
+  {
+    "year": 1975,
+    "total_global_tiv": 37147.94,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 15342.0
+      },
+      {
+        "iso": "SUN",
+        "tiv": 11741.76
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2320.6
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2228.37
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1423.95
+      },
+      {
+        "iso": "CSK",
+        "tiv": 739.44
+      },
+      {
+        "iso": "CHN",
+        "tiv": 661.4
+      },
+      {
+        "iso": "ITA",
+        "tiv": 520.28
+      },
+      {
+        "iso": "CHE",
+        "tiv": 483.55
+      },
+      {
+        "iso": "POL",
+        "tiv": 316.08
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IRN",
+        "tiv": 5228.67
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1831.05
+      },
+      {
+        "iso": "LBY",
+        "tiv": 1647.47
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1597.44
+      },
+      {
+        "iso": "IND",
+        "tiv": 1527.7
+      },
+      {
+        "iso": "SYR",
+        "tiv": 1411.3400000000001
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1183.65
+      },
+      {
+        "iso": "ESP",
+        "tiv": 1161.3
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1113.18
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1015.54
+      }
+    ]
+  },
+  {
+    "year": 1976,
+    "total_global_tiv": 35973.34,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 15714.11
+      },
+      {
+        "iso": "SUN",
+        "tiv": 9981.65
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2522.45
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2039.26
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1656.07
+      },
+      {
+        "iso": "CSK",
+        "tiv": 829.9
+      },
+      {
+        "iso": "CHE",
+        "tiv": 592.05
+      },
+      {
+        "iso": "CHN",
+        "tiv": 580.35
+      },
+      {
+        "iso": "ITA",
+        "tiv": 522.85
+      },
+      {
+        "iso": "POL",
+        "tiv": 425.2
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IRN",
+        "tiv": 4652.96
+      },
+      {
+        "iso": "ISR",
+        "tiv": 2003.72
+      },
+      {
+        "iso": "IND",
+        "tiv": 1941.95
+      },
+      {
+        "iso": "LBY",
+        "tiv": 1848.25
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1475.19
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1357.0
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 1319.56
+      },
+      {
+        "iso": "GRC",
+        "tiv": 1288.33
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1136.81
+      },
+      {
+        "iso": "POL",
+        "tiv": 1101.5
+      }
+    ]
+  },
+  {
+    "year": 1977,
+    "total_global_tiv": 39966.69,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 15145.65
+      },
+      {
+        "iso": "USA",
+        "tiv": 14323.89
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2736.57
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2194.61
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1925.33
+      },
+      {
+        "iso": "CSK",
+        "tiv": 845.1600000000001
+      },
+      {
+        "iso": "ITA",
+        "tiv": 505.22
+      },
+      {
+        "iso": "NLD",
+        "tiv": 443.9
+      },
+      {
+        "iso": "POL",
+        "tiv": 400.46
+      },
+      {
+        "iso": "CHE",
+        "tiv": 338.7
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IRN",
+        "tiv": 5482.27
+      },
+      {
+        "iso": "LBY",
+        "tiv": 3054.15
+      },
+      {
+        "iso": "IND",
+        "tiv": 2374.83
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1226.74
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1198.52
+      },
+      {
+        "iso": "ETH",
+        "tiv": 1132.94
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 1096.46
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1072.86
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1051.56
+      },
+      {
+        "iso": "POL",
+        "tiv": 1023.3
+      }
+    ]
+  },
+  {
+    "year": 1978,
+    "total_global_tiv": 42370.6,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 17637.15
+      },
+      {
+        "iso": "USA",
+        "tiv": 13513.14
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3317.19
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2205.95
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1603.46
+      },
+      {
+        "iso": "CSK",
+        "tiv": 819.56
+      },
+      {
+        "iso": "ITA",
+        "tiv": 665.3
+      },
+      {
+        "iso": "CHN",
+        "tiv": 610.9
+      },
+      {
+        "iso": "POL",
+        "tiv": 335.88
+      },
+      {
+        "iso": "NLD",
+        "tiv": 234.9
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "LBY",
+        "tiv": 4221.85
+      },
+      {
+        "iso": "IRN",
+        "tiv": 3724.2799999999997
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1796.26
+      },
+      {
+        "iso": "GRC",
+        "tiv": 1281.18
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1267.34
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1223.7
+      },
+      {
+        "iso": "IND",
+        "tiv": 1194.95
+      },
+      {
+        "iso": "POL",
+        "tiv": 1185.87
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 1141.31
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1029.25
+      }
+    ]
+  },
+  {
+    "year": 1979,
+    "total_global_tiv": 38356.380000000005,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 17043.06
+      },
+      {
+        "iso": "USA",
+        "tiv": 9786.46
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2970.42
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1542.6200000000001
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1426.75
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1311.69
+      },
+      {
+        "iso": "CSK",
+        "tiv": 818.06
+      },
+      {
+        "iso": "CHN",
+        "tiv": 553.34
+      },
+      {
+        "iso": "CHE",
+        "tiv": 488.45
+      },
+      {
+        "iso": "LBY",
+        "tiv": 394.5
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "LBY",
+        "tiv": 3067.2200000000003
+      },
+      {
+        "iso": "SYR",
+        "tiv": 2044.85
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1823.08
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1394.79
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1323.25
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1248.89
+      },
+      {
+        "iso": "IND",
+        "tiv": 1200.0
+      },
+      {
+        "iso": "POL",
+        "tiv": 1187.26
+      },
+      {
+        "iso": "YMD",
+        "tiv": 1078.44
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 969.36
+      }
+    ]
+  },
+  {
+    "year": 1980,
+    "total_global_tiv": 42226.0,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 18558.24
+      },
+      {
+        "iso": "USA",
+        "tiv": 10650.89
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3851.3
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1597.1
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1565.81
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1163.24
+      },
+      {
+        "iso": "CHN",
+        "tiv": 942.64
+      },
+      {
+        "iso": "CSK",
+        "tiv": 791.28
+      },
+      {
+        "iso": "NLD",
+        "tiv": 611.63
+      },
+      {
+        "iso": "CHE",
+        "tiv": 565.7
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "LBY",
+        "tiv": 2951.13
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 2251.55
+      },
+      {
+        "iso": "SYR",
+        "tiv": 1866.65
+      },
+      {
+        "iso": "IND",
+        "tiv": 1768.1
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1336.76
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1253.38
+      },
+      {
+        "iso": "YMD",
+        "tiv": 1217.76
+      },
+      {
+        "iso": "POL",
+        "tiv": 1118.67
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1085.11
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1029.49
+      }
+    ]
+  },
+  {
+    "year": 1981,
+    "total_global_tiv": 45806.13,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 17368.68
+      },
+      {
+        "iso": "USA",
+        "tiv": 13648.31
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3683.19
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2356.21
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1903.01
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1703.9
+      },
+      {
+        "iso": "CSK",
+        "tiv": 934.88
+      },
+      {
+        "iso": "NLD",
+        "tiv": 800.85
+      },
+      {
+        "iso": "CHN",
+        "tiv": 707.37
+      },
+      {
+        "iso": "CHE",
+        "tiv": 558.9
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "LBY",
+        "tiv": 3155.22
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 2580.46
+      },
+      {
+        "iso": "IND",
+        "tiv": 2123.6
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1816.1200000000001
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1662.59
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1380.65
+      },
+      {
+        "iso": "SYR",
+        "tiv": 1349.0
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1307.98
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1194.73
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1073.44
+      }
+    ]
+  },
+  {
+    "year": 1982,
+    "total_global_tiv": 46202.76,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 16837.94
+      },
+      {
+        "iso": "USA",
+        "tiv": 13965.35
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3789.2
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2514.85
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1674.1499999999999
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1557.25
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1510.07
+      },
+      {
+        "iso": "CSK",
+        "tiv": 926.38
+      },
+      {
+        "iso": "NLD",
+        "tiv": 660.8
+      },
+      {
+        "iso": "CHE",
+        "tiv": 413.35
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IRQ",
+        "tiv": 3258.74
+      },
+      {
+        "iso": "LBY",
+        "tiv": 2752.18
+      },
+      {
+        "iso": "IND",
+        "tiv": 2648.95
+      },
+      {
+        "iso": "EGY",
+        "tiv": 2507.73
+      },
+      {
+        "iso": "SAU",
+        "tiv": 2222.89
+      },
+      {
+        "iso": "SYR",
+        "tiv": 1988.74
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1444.1100000000001
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1351.5
+      },
+      {
+        "iso": "NATO**",
+        "tiv": 1250.0
+      },
+      {
+        "iso": "NLD",
+        "tiv": 1240.9499999999998
+      }
+    ]
+  },
+  {
+    "year": 1983,
+    "total_global_tiv": 43911.560000000005,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 14850.57
+      },
+      {
+        "iso": "USA",
+        "tiv": 13826.01
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3413.64
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2536.91
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2213.36
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1761.27
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1112.0
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1071.88
+      },
+      {
+        "iso": "NLD",
+        "tiv": 456.74
+      },
+      {
+        "iso": "ESP",
+        "tiv": 367.1
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IRQ",
+        "tiv": 3374.68
+      },
+      {
+        "iso": "IND",
+        "tiv": 2641.45
+      },
+      {
+        "iso": "SYR",
+        "tiv": 2241.46
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1818.5800000000002
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1695.02
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1691.95
+      },
+      {
+        "iso": "LBY",
+        "tiv": 1421.9
+      },
+      {
+        "iso": "NLD",
+        "tiv": 1331.4
+      },
+      {
+        "iso": "ARG",
+        "tiv": 1308.76
+      },
+      {
+        "iso": "NATO**",
+        "tiv": 1250.0
+      }
+    ]
+  },
+  {
+    "year": 1984,
+    "total_global_tiv": 41611.21,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 14073.08
+      },
+      {
+        "iso": "USA",
+        "tiv": 11890.17
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2932.19
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2928.57
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2528.97
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1934.79
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1231.58
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1131.48
+      },
+      {
+        "iso": "CHE",
+        "tiv": 529.23
+      },
+      {
+        "iso": "NLD",
+        "tiv": 363.5
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IRQ",
+        "tiv": 4580.8
+      },
+      {
+        "iso": "IND",
+        "tiv": 2434.2
+      },
+      {
+        "iso": "JPN",
+        "tiv": 2050.68
+      },
+      {
+        "iso": "SYR",
+        "tiv": 1816.6100000000001
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1506.48
+      },
+      {
+        "iso": "NATO**",
+        "tiv": 1250.0
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 1174.15
+      },
+      {
+        "iso": "NLD",
+        "tiv": 1172.8999999999999
+      },
+      {
+        "iso": "BGR",
+        "tiv": 945.2
+      },
+      {
+        "iso": "CSK",
+        "tiv": 921.36
+      }
+    ]
+  },
+  {
+    "year": 1985,
+    "total_global_tiv": 38167.46000000001,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 14364.91
+      },
+      {
+        "iso": "USA",
+        "tiv": 10763.11
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3991.89
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2141.95
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1326.55
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1292.48
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1036.48
+      },
+      {
+        "iso": "ITA",
+        "tiv": 868.16
+      },
+      {
+        "iso": "CHE",
+        "tiv": 346.5
+      },
+      {
+        "iso": "AUT",
+        "tiv": 247.5
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IRQ",
+        "tiv": 3909.38
+      },
+      {
+        "iso": "IND",
+        "tiv": 2995.95
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1966.33
+      },
+      {
+        "iso": "SYR",
+        "tiv": 1580.99
+      },
+      {
+        "iso": "East Germany (GDR)",
+        "tiv": 1329.79
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1313.56
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1164.1100000000001
+      },
+      {
+        "iso": "SUN",
+        "tiv": 1004.4
+      },
+      {
+        "iso": "PRK",
+        "tiv": 962.6
+      },
+      {
+        "iso": "EGY",
+        "tiv": 954.7
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "total_global_tiv": 39022.55,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 14888.2
+      },
+      {
+        "iso": "USA",
+        "tiv": 11610.79
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2962.31
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1984.67
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1860.72
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1349.25
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1248.18
+      },
+      {
+        "iso": "NLD",
+        "tiv": 357.48
+      },
+      {
+        "iso": "CHE",
+        "tiv": 340.4
+      },
+      {
+        "iso": "ISR",
+        "tiv": 333.45
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 4240.4
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 3393.49
+      },
+      {
+        "iso": "SAU",
+        "tiv": 2842.38
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1893.5
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1464.55
+      },
+      {
+        "iso": "SUN",
+        "tiv": 1422.2
+      },
+      {
+        "iso": "POL",
+        "tiv": 1389.45
+      },
+      {
+        "iso": "SYR",
+        "tiv": 1267.15
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1178.0
+      },
+      {
+        "iso": "ESP",
+        "tiv": 1081.35
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "total_global_tiv": 39394.649999999994,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 13500.72
+      },
+      {
+        "iso": "USA",
+        "tiv": 12191.3
+      },
+      {
+        "iso": "GBR",
+        "tiv": 3602.74
+      },
+      {
+        "iso": "CHN",
+        "tiv": 2600.46
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1751.99
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1301.88
+      },
+      {
+        "iso": "DEU",
+        "tiv": 908.2
+      },
+      {
+        "iso": "ITA",
+        "tiv": 626.4399999999999
+      },
+      {
+        "iso": "NLD",
+        "tiv": 506.24
+      },
+      {
+        "iso": "CHE",
+        "tiv": 318.8
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 3919.4
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 3473.53
+      },
+      {
+        "iso": "SAU",
+        "tiv": 2009.97
+      },
+      {
+        "iso": "USA",
+        "tiv": 1997.95
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1941.62
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1634.0
+      },
+      {
+        "iso": "SUN",
+        "tiv": 1499.5
+      },
+      {
+        "iso": "SYR",
+        "tiv": 1450.5
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1428.81
+      },
+      {
+        "iso": "AGO",
+        "tiv": 1193.17
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "total_global_tiv": 36766.2,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 12300.96
+      },
+      {
+        "iso": "USA",
+        "tiv": 12028.93
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2527.16
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1959.93
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1426.23
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1382.75
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1358.98
+      },
+      {
+        "iso": "NLD",
+        "tiv": 776.26
+      },
+      {
+        "iso": "SWE",
+        "tiv": 512.0699999999999
+      },
+      {
+        "iso": "ITA",
+        "tiv": 389.02
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 3853.95
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1997.84
+      },
+      {
+        "iso": "ESP",
+        "tiv": 1953.6799999999998
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1917.66
+      },
+      {
+        "iso": "USA",
+        "tiv": 1787.52
+      },
+      {
+        "iso": "SUN",
+        "tiv": 1654.2
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1627.9
+      },
+      {
+        "iso": "SYR",
+        "tiv": 1310.1
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1236.62
+      },
+      {
+        "iso": "AGO",
+        "tiv": 970.72
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "total_global_tiv": 34908.04,
+    "top_exporters": [
+      {
+        "iso": "SUN",
+        "tiv": 11443.91
+      },
+      {
+        "iso": "USA",
+        "tiv": 11348.62
+      },
+      {
+        "iso": "GBR",
+        "tiv": 3503.0899999999997
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2269.14
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1257.95
+      },
+      {
+        "iso": "CSK",
+        "tiv": 1064.58
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1056.06
+      },
+      {
+        "iso": "NLD",
+        "tiv": 558.3
+      },
+      {
+        "iso": "SWE",
+        "tiv": 400.8
+      },
+      {
+        "iso": "CHE",
+        "tiv": 317.95
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 3675.51
+      },
+      {
+        "iso": "JPN",
+        "tiv": 2282.68
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1835.25
+      },
+      {
+        "iso": "AFG",
+        "tiv": 1820.3600000000001
+      },
+      {
+        "iso": "USA",
+        "tiv": 1782.9
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1513.27
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1381.81
+      },
+      {
+        "iso": "GRC",
+        "tiv": 1247.86
+      },
+      {
+        "iso": "SUN",
+        "tiv": 1206.3
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1026.04
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "total_global_tiv": 30231.989999999998,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 10703.75
+      },
+      {
+        "iso": "SUN",
+        "tiv": 9864.04
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1844.04
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1819.53
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1799.3899999999999
+      },
+      {
+        "iso": "CHN",
+        "tiv": 955.48
+      },
+      {
+        "iso": "CSK",
+        "tiv": 625.65
+      },
+      {
+        "iso": "CHE",
+        "tiv": 474.8
+      },
+      {
+        "iso": "NLD",
+        "tiv": 415.6
+      },
+      {
+        "iso": "SWE",
+        "tiv": 224.3
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 2831.67
+      },
+      {
+        "iso": "JPN",
+        "tiv": 2682.07
+      },
+      {
+        "iso": "SAU",
+        "tiv": 2040.66
+      },
+      {
+        "iso": "AFG",
+        "tiv": 1612.31
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1240.77
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1200.56
+      },
+      {
+        "iso": "GRC",
+        "tiv": 906.69
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 818.4
+      },
+      {
+        "iso": "DEU",
+        "tiv": 757.0
+      },
+      {
+        "iso": "BGR",
+        "tiv": 754.93
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "total_global_tiv": 28161.3,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 12580.34
+      },
+      {
+        "iso": "SUN",
+        "tiv": 5524.28
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2406.93
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1524.94
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1323.5
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1166.36
+      },
+      {
+        "iso": "CHE",
+        "tiv": 507.9
+      },
+      {
+        "iso": "YUG",
+        "tiv": 479.5
+      },
+      {
+        "iso": "NLD",
+        "tiv": 454.68
+      },
+      {
+        "iso": "CSK",
+        "tiv": 426.57
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "JPN",
+        "tiv": 2940.01
+      },
+      {
+        "iso": "IND",
+        "tiv": 1874.62
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1285.0
+      },
+      {
+        "iso": "AFG",
+        "tiv": 1236.0
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1210.12
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1039.09
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1038.65
+      },
+      {
+        "iso": "PRT",
+        "tiv": 1011.89
+      },
+      {
+        "iso": "IRN",
+        "tiv": 989.6800000000001
+      },
+      {
+        "iso": "FRA",
+        "tiv": 962.85
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "total_global_tiv": 24305.95,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 14140.5
+      },
+      {
+        "iso": "RUS",
+        "tiv": 2643.1
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1517.13
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1246.09
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1092.92
+      },
+      {
+        "iso": "CHN",
+        "tiv": 672.29
+      },
+      {
+        "iso": "CHE",
+        "tiv": 457.4
+      },
+      {
+        "iso": "NLD",
+        "tiv": 382.76
+      },
+      {
+        "iso": "ISR",
+        "tiv": 353.58000000000004
+      },
+      {
+        "iso": "ITA",
+        "tiv": 249.37
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "JPN",
+        "tiv": 2519.07
+      },
+      {
+        "iso": "GRC",
+        "tiv": 2145.62
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1872.35
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1334.5
+      },
+      {
+        "iso": "IND",
+        "tiv": 1188.62
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1183.68
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1149.8
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1147.3899999999999
+      },
+      {
+        "iso": "EGY",
+        "tiv": 972.58
+      },
+      {
+        "iso": "KWT",
+        "tiv": 896.35
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "total_global_tiv": 25820.440000000002,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 13762.6
+      },
+      {
+        "iso": "RUS",
+        "tiv": 3486.29
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1545.22
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1437.32
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1381.09
+      },
+      {
+        "iso": "FRA",
+        "tiv": 970.59
+      },
+      {
+        "iso": "NLD",
+        "tiv": 457.56
+      },
+      {
+        "iso": "ISR",
+        "tiv": 416.35
+      },
+      {
+        "iso": "ITA",
+        "tiv": 341.82
+      },
+      {
+        "iso": "CHE",
+        "tiv": 231.7
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "SAU",
+        "tiv": 2353.38
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 2326.11
+      },
+      {
+        "iso": "JPN",
+        "tiv": 2129.54
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1258.08
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1230.18
+      },
+      {
+        "iso": "TWN",
+        "tiv": 1156.75
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1010.57
+      },
+      {
+        "iso": "PAK",
+        "tiv": 991.86
+      },
+      {
+        "iso": "USA",
+        "tiv": 968.15
+      },
+      {
+        "iso": "IRN",
+        "tiv": 959.75
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "total_global_tiv": 22947.339999999997,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 11464.45
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2907.84
+      },
+      {
+        "iso": "RUS",
+        "tiv": 1537.17
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1526.35
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1063.48
+      },
+      {
+        "iso": "FRA",
+        "tiv": 858.14
+      },
+      {
+        "iso": "NLD",
+        "tiv": 627.92
+      },
+      {
+        "iso": "ISR",
+        "tiv": 337.15
+      },
+      {
+        "iso": "CZE",
+        "tiv": 318.62
+      },
+      {
+        "iso": "DNK",
+        "tiv": 268.08
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "EGY",
+        "tiv": 2026.64
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1888.23
+      },
+      {
+        "iso": "GRC",
+        "tiv": 1226.51
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1016.07
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1005.33
+      },
+      {
+        "iso": "SAU",
+        "tiv": 980.76
+      },
+      {
+        "iso": "USA",
+        "tiv": 951.49
+      },
+      {
+        "iso": "IND",
+        "tiv": 872.97
+      },
+      {
+        "iso": "PAK",
+        "tiv": 862.31
+      },
+      {
+        "iso": "TWN",
+        "tiv": 858.1800000000001
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "total_global_tiv": 22941.6,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 11224.11
+      },
+      {
+        "iso": "RUS",
+        "tiv": 3827.7
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1525.2
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1460.1299999999999
+      },
+      {
+        "iso": "CHN",
+        "tiv": 980.97
+      },
+      {
+        "iso": "FRA",
+        "tiv": 969.08
+      },
+      {
+        "iso": "NLD",
+        "tiv": 457.7
+      },
+      {
+        "iso": "ITA",
+        "tiv": 301.03999999999996
+      },
+      {
+        "iso": "CAN",
+        "tiv": 247.98000000000002
+      },
+      {
+        "iso": "SWE",
+        "tiv": 225.91
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "KOR",
+        "tiv": 1951.78
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1704.17
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1563.83
+      },
+      {
+        "iso": "IND",
+        "tiv": 1357.66
+      },
+      {
+        "iso": "TWN",
+        "tiv": 1317.68
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1255.4
+      },
+      {
+        "iso": "SAU",
+        "tiv": 984.74
+      },
+      {
+        "iso": "GRC",
+        "tiv": 874.09
+      },
+      {
+        "iso": "MYS",
+        "tiv": 828.1999999999999
+      },
+      {
+        "iso": "USA",
+        "tiv": 809.3199999999999
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "total_global_tiv": 23732.11,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 10781.48
+      },
+      {
+        "iso": "RUS",
+        "tiv": 3638.86
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1948.81
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1838.75
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1616.0
+      },
+      {
+        "iso": "CHN",
+        "tiv": 763.53
+      },
+      {
+        "iso": "NLD",
+        "tiv": 484.0
+      },
+      {
+        "iso": "SWE",
+        "tiv": 343.94
+      },
+      {
+        "iso": "ISR",
+        "tiv": 334.55
+      },
+      {
+        "iso": "ITA",
+        "tiv": 286.75
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "KOR",
+        "tiv": 1971.45
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1727.0
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1496.4
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1487.75
+      },
+      {
+        "iso": "TWN",
+        "tiv": 1404.55
+      },
+      {
+        "iso": "KWT",
+        "tiv": 1208.76
+      },
+      {
+        "iso": "EGY",
+        "tiv": 969.14
+      },
+      {
+        "iso": "JPN",
+        "tiv": 876.2
+      },
+      {
+        "iso": "IND",
+        "tiv": 830.95
+      },
+      {
+        "iso": "THA",
+        "tiv": 740.77
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "total_global_tiv": 28885.850000000002,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 14471.57
+      },
+      {
+        "iso": "RUS",
+        "tiv": 3448.06
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3175.94
+      },
+      {
+        "iso": "GBR",
+        "tiv": 2362.7599999999998
+      },
+      {
+        "iso": "DEU",
+        "tiv": 951.08
+      },
+      {
+        "iso": "NLD",
+        "tiv": 618.61
+      },
+      {
+        "iso": "ESP",
+        "tiv": 605.19
+      },
+      {
+        "iso": "UKR",
+        "tiv": 572.7
+      },
+      {
+        "iso": "ITA",
+        "tiv": 447.43
+      },
+      {
+        "iso": "CHN",
+        "tiv": 426.82
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "TWN",
+        "tiv": 4746.46
+      },
+      {
+        "iso": "SAU",
+        "tiv": 2790.71
+      },
+      {
+        "iso": "IND",
+        "tiv": 1683.4
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1508.9
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1218.56
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1050.93
+      },
+      {
+        "iso": "CHN",
+        "tiv": 940.25
+      },
+      {
+        "iso": "THA",
+        "tiv": 909.5799999999999
+      },
+      {
+        "iso": "JPN",
+        "tiv": 843.15
+      },
+      {
+        "iso": "GRC",
+        "tiv": 806.8
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "total_global_tiv": 27912.230000000003,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 15839.369999999999
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3097.89
+      },
+      {
+        "iso": "RUS",
+        "tiv": 2120.16
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1839.76
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1399.58
+      },
+      {
+        "iso": "UKR",
+        "tiv": 708.76
+      },
+      {
+        "iso": "NLD",
+        "tiv": 641.8199999999999
+      },
+      {
+        "iso": "ITA",
+        "tiv": 423.35
+      },
+      {
+        "iso": "CHN",
+        "tiv": 348.93
+      },
+      {
+        "iso": "SWE",
+        "tiv": 332.43
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "TWN",
+        "tiv": 3967.17
+      },
+      {
+        "iso": "SAU",
+        "tiv": 2888.7400000000002
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 2622.84
+      },
+      {
+        "iso": "GRC",
+        "tiv": 1716.67
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1488.65
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1417.08
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1302.25
+      },
+      {
+        "iso": "SGP",
+        "tiv": 797.7199999999999
+      },
+      {
+        "iso": "IND",
+        "tiv": 796.6800000000001
+      },
+      {
+        "iso": "GBR",
+        "tiv": 769.8
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "total_global_tiv": 25383.48,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 11548.1
+      },
+      {
+        "iso": "RUS",
+        "tiv": 4409.08
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1937.28
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1683.03
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1315.39
+      },
+      {
+        "iso": "UKR",
+        "tiv": 1107.21
+      },
+      {
+        "iso": "ITA",
+        "tiv": 516.22
+      },
+      {
+        "iso": "BLR",
+        "tiv": 453.8
+      },
+      {
+        "iso": "SWE",
+        "tiv": 382.56
+      },
+      {
+        "iso": "NLD",
+        "tiv": 354.78000000000003
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "TWN",
+        "tiv": 1735.58
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1733.5
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1721.98
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1638.48
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1578.8500000000001
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1276.65
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1256.98
+      },
+      {
+        "iso": "IND",
+        "tiv": 1215.53
+      },
+      {
+        "iso": "PAK",
+        "tiv": 866.55
+      },
+      {
+        "iso": "GRC",
+        "tiv": 836.9300000000001
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "total_global_tiv": 20517.96,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 7677.51
+      },
+      {
+        "iso": "RUS",
+        "tiv": 4495.86
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1671.87
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1619.4
+      },
+      {
+        "iso": "UKR",
+        "tiv": 1424.27
+      },
+      {
+        "iso": "FRA",
+        "tiv": 966.44
+      },
+      {
+        "iso": "ISR",
+        "tiv": 406.58
+      },
+      {
+        "iso": "SWE",
+        "tiv": 354.75
+      },
+      {
+        "iso": "CHN",
+        "tiv": 308.65
+      },
+      {
+        "iso": "BLR",
+        "tiv": 292.97
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 2473.0
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1393.03
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1181.07
+      },
+      {
+        "iso": "RUS",
+        "tiv": 1146.68
+      },
+      {
+        "iso": "IND",
+        "tiv": 987.53
+      },
+      {
+        "iso": "GBR",
+        "tiv": 937.2
+      },
+      {
+        "iso": "EGY",
+        "tiv": 833.28
+      },
+      {
+        "iso": "SGP",
+        "tiv": 781.8
+      },
+      {
+        "iso": "GRC",
+        "tiv": 730.98
+      },
+      {
+        "iso": "TWN",
+        "tiv": 592.28
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "total_global_tiv": 18494.67,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 5591.35
+      },
+      {
+        "iso": "RUS",
+        "tiv": 5250.34
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1351.86
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1311.35
+      },
+      {
+        "iso": "SWE",
+        "tiv": 892.35
+      },
+      {
+        "iso": "DEU",
+        "tiv": 850.81
+      },
+      {
+        "iso": "UKR",
+        "tiv": 555.02
+      },
+      {
+        "iso": "CHN",
+        "tiv": 510.09
+      },
+      {
+        "iso": "ISR",
+        "tiv": 466.82
+      },
+      {
+        "iso": "ITA",
+        "tiv": 266.69
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 2755.1
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1286.8
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1214.8
+      },
+      {
+        "iso": "IND",
+        "tiv": 1049.86
+      },
+      {
+        "iso": "EGY",
+        "tiv": 824.48
+      },
+      {
+        "iso": "GRC",
+        "tiv": 792.95
+      },
+      {
+        "iso": "KOR",
+        "tiv": 768.41
+      },
+      {
+        "iso": "BRA",
+        "tiv": 573.25
+      },
+      {
+        "iso": "DZA",
+        "tiv": 539.4
+      },
+      {
+        "iso": "IRN",
+        "tiv": 526.21
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "total_global_tiv": 17681.1,
+    "top_exporters": [
+      {
+        "iso": "RUS",
+        "tiv": 5735.25
+      },
+      {
+        "iso": "USA",
+        "tiv": 4872.24
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1375.0
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1078.44
+      },
+      {
+        "iso": "DEU",
+        "tiv": 888.66
+      },
+      {
+        "iso": "ISR",
+        "tiv": 532.2
+      },
+      {
+        "iso": "CHN",
+        "tiv": 524.21
+      },
+      {
+        "iso": "ITA",
+        "tiv": 474.18
+      },
+      {
+        "iso": "UKR",
+        "tiv": 327.02
+      },
+      {
+        "iso": "NLD",
+        "tiv": 233.19
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 2829.8
+      },
+      {
+        "iso": "IND",
+        "tiv": 1902.43
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 877.65
+      },
+      {
+        "iso": "GBR",
+        "tiv": 720.9499999999999
+      },
+      {
+        "iso": "EGY",
+        "tiv": 717.27
+      },
+      {
+        "iso": "AUS",
+        "tiv": 638.28
+      },
+      {
+        "iso": "YEM",
+        "tiv": 584.95
+      },
+      {
+        "iso": "PAK",
+        "tiv": 566.02
+      },
+      {
+        "iso": "SAU",
+        "tiv": 558.54
+      },
+      {
+        "iso": "KOR",
+        "tiv": 519.16
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "total_global_tiv": 19145.55,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 5684.24
+      },
+      {
+        "iso": "RUS",
+        "tiv": 5266.26
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1631.54
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1347.7
+      },
+      {
+        "iso": "GBR",
+        "tiv": 769.42
+      },
+      {
+        "iso": "CHN",
+        "tiv": 700.6
+      },
+      {
+        "iso": "SWE",
+        "tiv": 515.6
+      },
+      {
+        "iso": "ISR",
+        "tiv": 418.15
+      },
+      {
+        "iso": "ITA",
+        "tiv": 359.03000000000003
+      },
+      {
+        "iso": "NLD",
+        "tiv": 330.86
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 2798.12
+      },
+      {
+        "iso": "CHN",
+        "tiv": 2326.05
+      },
+      {
+        "iso": "GRC",
+        "tiv": 2164.4900000000002
+      },
+      {
+        "iso": "GBR",
+        "tiv": 769.99
+      },
+      {
+        "iso": "KOR",
+        "tiv": 767.41
+      },
+      {
+        "iso": "AUS",
+        "tiv": 765.0
+      },
+      {
+        "iso": "ARE",
+        "tiv": 676.4
+      },
+      {
+        "iso": "PAK",
+        "tiv": 645.48
+      },
+      {
+        "iso": "EGY",
+        "tiv": 632.81
+      },
+      {
+        "iso": "USA",
+        "tiv": 629.62
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "total_global_tiv": 21275.29,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 6869.5
+      },
+      {
+        "iso": "RUS",
+        "tiv": 6352.98
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2117.38
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1231.08
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1089.66
+      },
+      {
+        "iso": "ISR",
+        "tiv": 599.12
+      },
+      {
+        "iso": "CHN",
+        "tiv": 407.7
+      },
+      {
+        "iso": "SWE",
+        "tiv": 297.35
+      },
+      {
+        "iso": "CHE",
+        "tiv": 293.05
+      },
+      {
+        "iso": "CAN",
+        "tiv": 288.94
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 3235.75
+      },
+      {
+        "iso": "IND",
+        "tiv": 2246.1
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1156.59
+      },
+      {
+        "iso": "ARE",
+        "tiv": 1144.96
+      },
+      {
+        "iso": "GRC",
+        "tiv": 1097.69
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1061.02
+      },
+      {
+        "iso": "ISR",
+        "tiv": 845.9
+      },
+      {
+        "iso": "EGY",
+        "tiv": 660.12
+      },
+      {
+        "iso": "USA",
+        "tiv": 595.88
+      },
+      {
+        "iso": "ITA",
+        "tiv": 489.58
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "total_global_tiv": 21389.090000000004,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 6723.88
+      },
+      {
+        "iso": "RUS",
+        "tiv": 5198.93
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2082.54
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1644.67
+      },
+      {
+        "iso": "GBR",
+        "tiv": 990.17
+      },
+      {
+        "iso": "ITA",
+        "tiv": 831.76
+      },
+      {
+        "iso": "SWE",
+        "tiv": 536.3
+      },
+      {
+        "iso": "ISR",
+        "tiv": 520.6800000000001
+      },
+      {
+        "iso": "NLD",
+        "tiv": 495.52
+      },
+      {
+        "iso": "CHN",
+        "tiv": 340.82
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 3466.9700000000003
+      },
+      {
+        "iso": "ARE",
+        "tiv": 2071.71
+      },
+      {
+        "iso": "IND",
+        "tiv": 1201.79
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1103.22
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1075.9
+      },
+      {
+        "iso": "EGY",
+        "tiv": 833.37
+      },
+      {
+        "iso": "KOR",
+        "tiv": 800.86
+      },
+      {
+        "iso": "TWN",
+        "tiv": 694.52
+      },
+      {
+        "iso": "CZE",
+        "tiv": 600.2
+      },
+      {
+        "iso": "USA",
+        "tiv": 582.03
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "total_global_tiv": 24528.410000000003,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 7496.51
+      },
+      {
+        "iso": "RUS",
+        "tiv": 5181.86
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2482.0
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1484.27
+      },
+      {
+        "iso": "NLD",
+        "tiv": 1146.73
+      },
+      {
+        "iso": "GBR",
+        "tiv": 957.48
+      },
+      {
+        "iso": "ESP",
+        "tiv": 897.52
+      },
+      {
+        "iso": "CHN",
+        "tiv": 768.85
+      },
+      {
+        "iso": "ITA",
+        "tiv": 538.14
+      },
+      {
+        "iso": "UKR",
+        "tiv": 532.65
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 2831.1
+      },
+      {
+        "iso": "ARE",
+        "tiv": 1925.14
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1657.77
+      },
+      {
+        "iso": "IND",
+        "tiv": 1486.69
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1124.8
+      },
+      {
+        "iso": "CHL",
+        "tiv": 1097.22
+      },
+      {
+        "iso": "ZAF",
+        "tiv": 741.25
+      },
+      {
+        "iso": "AUS",
+        "tiv": 720.8
+      },
+      {
+        "iso": "GRC",
+        "tiv": 718.74
+      },
+      {
+        "iso": "USA",
+        "tiv": 706.12
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "total_global_tiv": 26511.120000000003,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 7870.43
+      },
+      {
+        "iso": "RUS",
+        "tiv": 5596.32
+      },
+      {
+        "iso": "DEU",
+        "tiv": 3291.12
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2145.39
+      },
+      {
+        "iso": "NLD",
+        "tiv": 1228.16
+      },
+      {
+        "iso": "GBR",
+        "tiv": 923.74
+      },
+      {
+        "iso": "ITA",
+        "tiv": 699.8
+      },
+      {
+        "iso": "UKR",
+        "tiv": 639.72
+      },
+      {
+        "iso": "ESP",
+        "tiv": 627.72
+      },
+      {
+        "iso": "ISR",
+        "tiv": 612.75
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 2299.79
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1730.11
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1698.8
+      },
+      {
+        "iso": "GRC",
+        "tiv": 1665.06
+      },
+      {
+        "iso": "POL",
+        "tiv": 968.88
+      },
+      {
+        "iso": "ZAF",
+        "tiv": 910.0
+      },
+      {
+        "iso": "USA",
+        "tiv": 841.87
+      },
+      {
+        "iso": "ISR",
+        "tiv": 840.46
+      },
+      {
+        "iso": "ARE",
+        "tiv": 819.11
+      },
+      {
+        "iso": "GBR",
+        "tiv": 816.59
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "total_global_tiv": 24119.9,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 7089.03
+      },
+      {
+        "iso": "RUS",
+        "tiv": 5998.33
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2377.5099999999998
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1872.45
+      },
+      {
+        "iso": "GBR",
+        "tiv": 930.88
+      },
+      {
+        "iso": "ESP",
+        "tiv": 626.3299999999999
+      },
+      {
+        "iso": "CHN",
+        "tiv": 598.0699999999999
+      },
+      {
+        "iso": "CHE",
+        "tiv": 505.73
+      },
+      {
+        "iso": "SWE",
+        "tiv": 460.77
+      },
+      {
+        "iso": "NLD",
+        "tiv": 451.58000000000004
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "CHN",
+        "tiv": 1783.65
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1690.56
+      },
+      {
+        "iso": "IND",
+        "tiv": 1643.49
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1522.25
+      },
+      {
+        "iso": "SGP",
+        "tiv": 1105.5900000000001
+      },
+      {
+        "iso": "PAK",
+        "tiv": 1071.57
+      },
+      {
+        "iso": "JPN",
+        "tiv": 990.47
+      },
+      {
+        "iso": "USA",
+        "tiv": 935.96
+      },
+      {
+        "iso": "VEN",
+        "tiv": 740.75
+      },
+      {
+        "iso": "ARE",
+        "tiv": 729.61
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "total_global_tiv": 24443.59,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 7150.61
+      },
+      {
+        "iso": "RUS",
+        "tiv": 5125.52
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2207.46
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1844.55
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1138.49
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1071.02
+      },
+      {
+        "iso": "ESP",
+        "tiv": 984.05
+      },
+      {
+        "iso": "ISR",
+        "tiv": 819.1
+      },
+      {
+        "iso": "ITA",
+        "tiv": 512.23
+      },
+      {
+        "iso": "NLD",
+        "tiv": 503.54
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 1958.3400000000001
+      },
+      {
+        "iso": "SGP",
+        "tiv": 1402.8200000000002
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1382.07
+      },
+      {
+        "iso": "MYS",
+        "tiv": 1283.77
+      },
+      {
+        "iso": "GRC",
+        "tiv": 1216.3
+      },
+      {
+        "iso": "PAK",
+        "tiv": 1194.6
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1075.6499999999999
+      },
+      {
+        "iso": "JPN",
+        "tiv": 990.27
+      },
+      {
+        "iso": "USA",
+        "tiv": 939.25
+      },
+      {
+        "iso": "SAU",
+        "tiv": 827.51
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "total_global_tiv": 25832.33,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 8353.89
+      },
+      {
+        "iso": "RUS",
+        "tiv": 6226.73
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2363.86
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1531.36
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1145.72
+      },
+      {
+        "iso": "FRA",
+        "tiv": 888.38
+      },
+      {
+        "iso": "ISR",
+        "tiv": 695.11
+      },
+      {
+        "iso": "SWE",
+        "tiv": 612.04
+      },
+      {
+        "iso": "ITA",
+        "tiv": 577.34
+      },
+      {
+        "iso": "UKR",
+        "tiv": 518.53
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 2897.34
+      },
+      {
+        "iso": "PAK",
+        "tiv": 2231.92
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1557.6399999999999
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1298.81
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1108.82
+      },
+      {
+        "iso": "USA",
+        "tiv": 969.24
+      },
+      {
+        "iso": "CHN",
+        "tiv": 940.0
+      },
+      {
+        "iso": "SGP",
+        "tiv": 937.05
+      },
+      {
+        "iso": "PRT",
+        "tiv": 890.96
+      },
+      {
+        "iso": "DZA",
+        "tiv": 830.81
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "total_global_tiv": 29928.350000000002,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 9040.66
+      },
+      {
+        "iso": "RUS",
+        "tiv": 8793.39
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2078.69
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1308.2
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1203.15
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1000.55
+      },
+      {
+        "iso": "ESP",
+        "tiv": 997.27
+      },
+      {
+        "iso": "ITA",
+        "tiv": 964.13
+      },
+      {
+        "iso": "SWE",
+        "tiv": 658.0
+      },
+      {
+        "iso": "ISR",
+        "tiv": 590.3
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 3625.44
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1582.1
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1567.91
+      },
+      {
+        "iso": "MAR",
+        "tiv": 1289.2
+      },
+      {
+        "iso": "ARE",
+        "tiv": 1216.86
+      },
+      {
+        "iso": "PAK",
+        "tiv": 1177.76
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1176.29
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1133.15
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1033.25
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1015.75
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "total_global_tiv": 27937.1,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 8965.36
+      },
+      {
+        "iso": "RUS",
+        "tiv": 8335.25
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1498.7
+      },
+      {
+        "iso": "UKR",
+        "tiv": 1496.76
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1337.59
+      },
+      {
+        "iso": "NLD",
+        "tiv": 906.36
+      },
+      {
+        "iso": "GBR",
+        "tiv": 812.98
+      },
+      {
+        "iso": "ITA",
+        "tiv": 789.3000000000001
+      },
+      {
+        "iso": "DEU",
+        "tiv": 714.71
+      },
+      {
+        "iso": "ISR",
+        "tiv": 481.95
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 4506.34
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1542.25
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1482.07
+      },
+      {
+        "iso": "ARE",
+        "tiv": 1138.98
+      },
+      {
+        "iso": "USA",
+        "tiv": 1137.5
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1076.85
+      },
+      {
+        "iso": "MAR",
+        "tiv": 1051.6
+      },
+      {
+        "iso": "PAK",
+        "tiv": 1024.03
+      },
+      {
+        "iso": "SAU",
+        "tiv": 835.45
+      },
+      {
+        "iso": "AUS",
+        "tiv": 787.1
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "total_global_tiv": 27406.77,
+    "top_exporters": [
+      {
+        "iso": "RUS",
+        "tiv": 7886.889999999999
+      },
+      {
+        "iso": "USA",
+        "tiv": 7770.32
+      },
+      {
+        "iso": "CHN",
+        "tiv": 2100.14
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1870.47
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1508.99
+      },
+      {
+        "iso": "ITA",
+        "tiv": 884.11
+      },
+      {
+        "iso": "DEU",
+        "tiv": 721.5
+      },
+      {
+        "iso": "UKR",
+        "tiv": 687.73
+      },
+      {
+        "iso": "ESP",
+        "tiv": 449.87
+      },
+      {
+        "iso": "ISR",
+        "tiv": 414.46
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 5302.4400000000005
+      },
+      {
+        "iso": "ARE",
+        "tiv": 2324.44
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1686.1100000000001
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1221.35
+      },
+      {
+        "iso": "PAK",
+        "tiv": 1112.31
+      },
+      {
+        "iso": "VEN",
+        "tiv": 1006.0
+      },
+      {
+        "iso": "IDN",
+        "tiv": 833.26
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 768.8
+      },
+      {
+        "iso": "USA",
+        "tiv": 766.62
+      },
+      {
+        "iso": "SGP",
+        "tiv": 753.09
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "total_global_tiv": 27126.9,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 9455.35
+      },
+      {
+        "iso": "RUS",
+        "tiv": 5404.4
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1829.69
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1762.61
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1657.6
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1352.95
+      },
+      {
+        "iso": "ESP",
+        "tiv": 961.8
+      },
+      {
+        "iso": "ITA",
+        "tiv": 687.89
+      },
+      {
+        "iso": "NLD",
+        "tiv": 643.0
+      },
+      {
+        "iso": "UKR",
+        "tiv": 632.13
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 3281.99
+      },
+      {
+        "iso": "SAU",
+        "tiv": 2716.8
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 1529.18
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 1224.9
+      },
+      {
+        "iso": "IDN",
+        "tiv": 1195.06
+      },
+      {
+        "iso": "TWN",
+        "tiv": 1081.53
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1033.35
+      },
+      {
+        "iso": "PAK",
+        "tiv": 876.72
+      },
+      {
+        "iso": "AUS",
+        "tiv": 847.5799999999999
+      },
+      {
+        "iso": "KOR",
+        "tiv": 741.75
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "total_global_tiv": 28721.78,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 10313.69
+      },
+      {
+        "iso": "RUS",
+        "tiv": 5798.73
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2228.66
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1841.3700000000001
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1822.62
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1183.03
+      },
+      {
+        "iso": "ESP",
+        "tiv": 981.84
+      },
+      {
+        "iso": "ITA",
+        "tiv": 670.52
+      },
+      {
+        "iso": "ISR",
+        "tiv": 573.09
+      },
+      {
+        "iso": "CHE",
+        "tiv": 491.3
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "SAU",
+        "tiv": 3474.3
+      },
+      {
+        "iso": "IND",
+        "tiv": 2733.29
+      },
+      {
+        "iso": "ARE",
+        "tiv": 1690.52
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1487.98
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1444.65
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1442.96
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1189.8
+      },
+      {
+        "iso": "DZA",
+        "tiv": 896.5
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 869.35
+      },
+      {
+        "iso": "PAK",
+        "tiv": 771.2
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "total_global_tiv": 31481.280000000002,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 9890.13
+      },
+      {
+        "iso": "RUS",
+        "tiv": 6750.72
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2512.39
+      },
+      {
+        "iso": "CHN",
+        "tiv": 2480.02
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2193.22
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1343.85
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1257.92
+      },
+      {
+        "iso": "ITA",
+        "tiv": 615.99
+      },
+      {
+        "iso": "NLD",
+        "tiv": 487.27
+      },
+      {
+        "iso": "ESP",
+        "tiv": 480.5
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "DZA",
+        "tiv": 2916.3
+      },
+      {
+        "iso": "SAU",
+        "tiv": 2908.7599999999998
+      },
+      {
+        "iso": "IND",
+        "tiv": 2651.24
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 1830.53
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1653.26
+      },
+      {
+        "iso": "ARE",
+        "tiv": 1490.8700000000001
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1208.65
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1037.55
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1012.35
+      },
+      {
+        "iso": "Viet Nam",
+        "tiv": 924.4
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "total_global_tiv": 31279.160000000003,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 11380.81
+      },
+      {
+        "iso": "RUS",
+        "tiv": 6395.37
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2335.52
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1826.21
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1642.54
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1214.56
+      },
+      {
+        "iso": "NLD",
+        "tiv": 1139.75
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1104.15
+      },
+      {
+        "iso": "ESP",
+        "tiv": 819.5
+      },
+      {
+        "iso": "ITA",
+        "tiv": 703.38
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "SAU",
+        "tiv": 3852.05
+      },
+      {
+        "iso": "IND",
+        "tiv": 2682.44
+      },
+      {
+        "iso": "EGY",
+        "tiv": 2479.55
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1664.11
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1545.8
+      },
+      {
+        "iso": "IDN",
+        "tiv": 1170.9099999999999
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1157.9
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1002.2
+      },
+      {
+        "iso": "KOR",
+        "tiv": 961.72
+      },
+      {
+        "iso": "IRQ",
+        "tiv": 944.94
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "total_global_tiv": 27368.01,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 9264.15
+      },
+      {
+        "iso": "RUS",
+        "tiv": 7144.63
+      },
+      {
+        "iso": "FRA",
+        "tiv": 1866.73
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1390.7
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1141.9
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1098.02
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1054.46
+      },
+      {
+        "iso": "ESP",
+        "tiv": 704.52
+      },
+      {
+        "iso": "GBR",
+        "tiv": 681.84
+      },
+      {
+        "iso": "ITA",
+        "tiv": 535.09
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "SAU",
+        "tiv": 2943.9900000000002
+      },
+      {
+        "iso": "CHN",
+        "tiv": 2254.05
+      },
+      {
+        "iso": "IND",
+        "tiv": 1981.98
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1636.95
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1552.5
+      },
+      {
+        "iso": "DZA",
+        "tiv": 1278.48
+      },
+      {
+        "iso": "ARE",
+        "tiv": 1164.58
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1030.06
+      },
+      {
+        "iso": "PAK",
+        "tiv": 893.06
+      },
+      {
+        "iso": "JPN",
+        "tiv": 764.29
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "total_global_tiv": 27035.65,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 10498.5
+      },
+      {
+        "iso": "RUS",
+        "tiv": 5374.41
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3753.21
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1601.18
+      },
+      {
+        "iso": "DEU",
+        "tiv": 977.78
+      },
+      {
+        "iso": "GBR",
+        "tiv": 885.51
+      },
+      {
+        "iso": "KOR",
+        "tiv": 675.35
+      },
+      {
+        "iso": "ISR",
+        "tiv": 384.52
+      },
+      {
+        "iso": "ITA",
+        "tiv": 371.79
+      },
+      {
+        "iso": "ESP",
+        "tiv": 317.64
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 3201.75
+      },
+      {
+        "iso": "SAU",
+        "tiv": 3032.5499999999997
+      },
+      {
+        "iso": "QAT",
+        "tiv": 2230.1
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1604.56
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1570.75
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1159.46
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1088.4
+      },
+      {
+        "iso": "JPN",
+        "tiv": 992.1
+      },
+      {
+        "iso": "USA",
+        "tiv": 881.8
+      },
+      {
+        "iso": "ARE",
+        "tiv": 750.3
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "total_global_tiv": 24054.75,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 9730.02
+      },
+      {
+        "iso": "RUS",
+        "tiv": 3659.99
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2289.52
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1152.58
+      },
+      {
+        "iso": "ESP",
+        "tiv": 1005.4
+      },
+      {
+        "iso": "KOR",
+        "tiv": 829.26
+      },
+      {
+        "iso": "ITA",
+        "tiv": 820.5
+      },
+      {
+        "iso": "GBR",
+        "tiv": 651.9300000000001
+      },
+      {
+        "iso": "CHN",
+        "tiv": 645.4499999999999
+      },
+      {
+        "iso": "NLD",
+        "tiv": 496.7
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 2670.1
+      },
+      {
+        "iso": "SAU",
+        "tiv": 2241.35
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1631.56
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1398.4
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1272.82
+      },
+      {
+        "iso": "QAT",
+        "tiv": 1081.6
+      },
+      {
+        "iso": "JPN",
+        "tiv": 928.8
+      },
+      {
+        "iso": "USA",
+        "tiv": 806.1
+      },
+      {
+        "iso": "CHN",
+        "tiv": 774.75
+      },
+      {
+        "iso": "ARE",
+        "tiv": 659.63
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "total_global_tiv": 27083.79,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 11600.54
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3903.83
+      },
+      {
+        "iso": "RUS",
+        "tiv": 2397.08
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1626.93
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1342.34
+      },
+      {
+        "iso": "DEU",
+        "tiv": 852.2
+      },
+      {
+        "iso": "ISR",
+        "tiv": 687.24
+      },
+      {
+        "iso": "ESP",
+        "tiv": 675.96
+      },
+      {
+        "iso": "GBR",
+        "tiv": 638.57
+      },
+      {
+        "iso": "KOR",
+        "tiv": 535.6899999999999
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "IND",
+        "tiv": 3958.25
+      },
+      {
+        "iso": "QAT",
+        "tiv": 2287.7599999999998
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1746.93
+      },
+      {
+        "iso": "KWT",
+        "tiv": 1564.75
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1298.5
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1217.64
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1009.05
+      },
+      {
+        "iso": "PAK",
+        "tiv": 983.88
+      },
+      {
+        "iso": "USA",
+        "tiv": 922.27
+      },
+      {
+        "iso": "GBR",
+        "tiv": 885.75
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "total_global_tiv": 33296.78,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 14505.47
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3155.7599999999998
+      },
+      {
+        "iso": "RUS",
+        "tiv": 2565.73
+      },
+      {
+        "iso": "CHN",
+        "tiv": 2323.14
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1739.98
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1712.94
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1508.28
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1033.56
+      },
+      {
+        "iso": "ESP",
+        "tiv": 1014.32
+      },
+      {
+        "iso": "POL",
+        "tiv": 707.22
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "QAT",
+        "tiv": 3336.34
+      },
+      {
+        "iso": "SAU",
+        "tiv": 3052.5
+      },
+      {
+        "iso": "UKR",
+        "tiv": 2967.04
+      },
+      {
+        "iso": "IND",
+        "tiv": 2700.9
+      },
+      {
+        "iso": "KWT",
+        "tiv": 1569.0
+      },
+      {
+        "iso": "PAK",
+        "tiv": 1529.1
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1465.9
+      },
+      {
+        "iso": "GBR",
+        "tiv": 858.76
+      },
+      {
+        "iso": "USA",
+        "tiv": 846.28
+      },
+      {
+        "iso": "ISR",
+        "tiv": 833.32
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "total_global_tiv": 29526.64,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 10920.22
+      },
+      {
+        "iso": "CHN",
+        "tiv": 2745.17
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2546.85
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2175.03
+      },
+      {
+        "iso": "RUS",
+        "tiv": 1513.05
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1367.04
+      },
+      {
+        "iso": "GBR",
+        "tiv": 1320.23
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1272.48
+      },
+      {
+        "iso": "ESP",
+        "tiv": 911.96
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 697.64
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "UKR",
+        "tiv": 4293.52
+      },
+      {
+        "iso": "PAK",
+        "tiv": 2198.55
+      },
+      {
+        "iso": "QAT",
+        "tiv": 2006.47
+      },
+      {
+        "iso": "IND",
+        "tiv": 1540.34
+      },
+      {
+        "iso": "POL",
+        "tiv": 1391.1399999999999
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1325.65
+      },
+      {
+        "iso": "EGY",
+        "tiv": 1151.59
+      },
+      {
+        "iso": "ARE",
+        "tiv": 918.15
+      },
+      {
+        "iso": "USA",
+        "tiv": 890.9399999999999
+      },
+      {
+        "iso": "ISR",
+        "tiv": 862.69
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "total_global_tiv": 30720.839999999997,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 13651.4
+      },
+      {
+        "iso": "FRA",
+        "tiv": 2472.08
+      },
+      {
+        "iso": "DEU",
+        "tiv": 2107.79
+      },
+      {
+        "iso": "RUS",
+        "tiv": 1994.45
+      },
+      {
+        "iso": "CHN",
+        "tiv": 1294.27
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1207.96
+      },
+      {
+        "iso": "ISR",
+        "tiv": 1162.95
+      },
+      {
+        "iso": "KOR",
+        "tiv": 1102.21
+      },
+      {
+        "iso": "GBR",
+        "tiv": 883.52
+      },
+      {
+        "iso": "ESP",
+        "tiv": 606.34
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "UKR",
+        "tiv": 5340.68
+      },
+      {
+        "iso": "IND",
+        "tiv": 1602.81
+      },
+      {
+        "iso": "POL",
+        "tiv": 1542.08
+      },
+      {
+        "iso": "SAU",
+        "tiv": 1238.25
+      },
+      {
+        "iso": "QAT",
+        "tiv": 1194.0
+      },
+      {
+        "iso": "ARE",
+        "tiv": 1085.57
+      },
+      {
+        "iso": "AUS",
+        "tiv": 1076.75
+      },
+      {
+        "iso": "PAK",
+        "tiv": 1068.1
+      },
+      {
+        "iso": "USA",
+        "tiv": 1052.69
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1043.05
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "total_global_tiv": 33534.7,
+    "top_exporters": [
+      {
+        "iso": "USA",
+        "tiv": 13980.19
+      },
+      {
+        "iso": "FRA",
+        "tiv": 3366.88
+      },
+      {
+        "iso": "ISR",
+        "tiv": 2623.18
+      },
+      {
+        "iso": "KOR",
+        "tiv": 2020.1
+      },
+      {
+        "iso": "RUS",
+        "tiv": 1941.5
+      },
+      {
+        "iso": "ITA",
+        "tiv": 1923.02
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1695.69
+      },
+      {
+        "iso": "CHN",
+        "tiv": 879.56
+      },
+      {
+        "iso": "GBR",
+        "tiv": 702.36
+      },
+      {
+        "iso": "NLD",
+        "tiv": 600.72
+      }
+    ],
+    "top_importers": [
+      {
+        "iso": "SAU",
+        "tiv": 3042.4500000000003
+      },
+      {
+        "iso": "IND",
+        "tiv": 2863.46
+      },
+      {
+        "iso": "UKR",
+        "tiv": 2263.9
+      },
+      {
+        "iso": "POL",
+        "tiv": 2169.41
+      },
+      {
+        "iso": "JPN",
+        "tiv": 1715.15
+      },
+      {
+        "iso": "DEU",
+        "tiv": 1632.31
+      },
+      {
+        "iso": "IDN",
+        "tiv": 1277.0
+      },
+      {
+        "iso": "QAT",
+        "tiv": 1054.2
+      },
+      {
+        "iso": "ARE",
+        "tiv": 867.76
+      },
+      {
+        "iso": "PHL",
+        "tiv": 846.49
+      }
+    ]
+  }
+]
