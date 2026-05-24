@@ -42,7 +42,7 @@ export default function MethodologyPage() {
             major systems. Spare parts, training services and logistical support are not recorded.
           </p>
           <p>
-            <a href="https://www.sipri.org/databases/arms-transfers" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.sipri.org/databases/armstransfers" target="_blank" rel="noopener noreferrer"
                className="text-accent underline hover:text-accent-light">
               Official SIPRI Arms Transfers Database
             </a>
