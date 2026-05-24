@@ -7,7 +7,7 @@ import { formatTIV, isoToName, categoryColor } from '../../utils/formatters';
 import { AreaChart, Area, XAxis, Tooltip as RechartsTooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
 
 export default function CountryPanel() {
-  const { focusedCountry, setFocusedCountry, yearRange, activeWeaponCategories, minTiv, activeView, showEmbargoLayer } = useMapStore();
+  const { focusedCountry, setFocusedCountry, yearRange, activeWeaponCategories, minTiv, activeView } = useMapStore();
 
   const handleShare = () => {
     const params = new URLSearchParams();
@@ -16,7 +16,6 @@ export default function CountryPanel() {
     params.set('minTiv', minTiv);
     params.set('view', activeView);
     if (focusedCountry) params.set('country', focusedCountry);
-    params.set('embargo', showEmbargoLayer);
     const shareUrl = `${window.location.origin}${window.location.pathname}?${params.toString()}`;
     navigator.clipboard.writeText(shareUrl).then(() => {
       // Simple toast could be added; using alert for now
@@ -35,6 +34,8 @@ export default function CountryPanel() {
       loadCountryProfile(focusedCountry).then(data => {
         setProfile(data);
         setActiveTab('exports'); // reset tab on country change
+      }).catch(err => {
+        console.error('[CountryPanel] Error loading profile:', err);
       });
     } else {
       setProfile(null);

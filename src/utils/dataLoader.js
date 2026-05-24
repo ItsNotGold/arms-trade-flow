@@ -62,17 +62,149 @@ export const loadFlows = async (yearStart, yearEnd, categories = [], minTiv = 0,
 };
 
 export const loadCountryProfile = async (isoCode) => {
-  if (!countryProfileCache) {
-    countryProfileCache = await fetchJson('/data/by_country.json');
+  // Always reload by_country to get fresh data (bust cache)
+  const freshByCountry = await fetchJson('/data/by_country.json?' + Date.now());
+  
+  let profile = freshByCountry[isoCode];
+  
+  if (profile) {
+    console.log('[CountryPanel] Profile found for', isoCode, '- Region:', profile.region);
+    return profile;
   }
-  return countryProfileCache[isoCode] || null;
+  
+  // If no profile found, generate one from flows data
+  console.log('[CountryPanel] Generating profile from flows for', isoCode);
+  profile = await generateCountryProfileFromFlows(isoCode);
+  
+  if (profile) {
+    console.log('[CountryPanel] Generated profile for', isoCode, '- Region:', profile.region);
+  }
+  
+  return profile;
+};
+
+const generateCountryProfileFromFlows = async (isoCode) => {
+  // Load flows if not cached
+  if (!flowsCache) {
+    flowsCache = await fetchJson('/data/flows.json');
+  }
+  
+  // Reload by_country to get fresh region data (bust cache)
+  const byCountry = await fetchJson('/data/by_country.json?' + Date.now());
+  const countryEntry = byCountry[isoCode];
+  
+  const countryFlows = flowsCache.filter(f => f.supplier_iso === isoCode || f.recipient_iso === isoCode);
+  
+  if (!countryFlows.length) return null;
+  
+  // Aggregate exports and imports
+  const exports = countryFlows.filter(f => f.supplier_iso === isoCode);
+  const imports = countryFlows.filter(f => f.recipient_iso === isoCode);
+  
+  const totalExportedTiv = exports.reduce((sum, f) => sum + (f.tiv || 0), 0);
+  const totalImportedTiv = imports.reduce((sum, f) => sum + (f.tiv || 0), 0);
+  
+  // Get top export partners
+  const exportPartners = {};
+  exports.forEach(f => {
+    if (!exportPartners[f.recipient_iso]) {
+      exportPartners[f.recipient_iso] = 0;
+    }
+    exportPartners[f.recipient_iso] += f.tiv || 0;
+  });
+  
+  const topExportPartners = Object.entries(exportPartners)
+    .map(([iso, tiv]) => ({ iso, tiv }))
+    .sort((a, b) => b.tiv - a.tiv)
+    .slice(0, 10);
+  
+  // Get top import partners
+  const importPartners = {};
+  imports.forEach(f => {
+    if (!importPartners[f.supplier_iso]) {
+      importPartners[f.supplier_iso] = 0;
+    }
+    importPartners[f.supplier_iso] += f.tiv || 0;
+  });
+  
+  const topImportPartners = Object.entries(importPartners)
+    .map(([iso, tiv]) => ({ iso, tiv }))
+    .sort((a, b) => b.tiv - a.tiv)
+    .slice(0, 10);
+  
+  // Aggregate by category
+  const exportsByCategory = {};
+  const importsByCategory = {};
+  
+  exports.forEach(f => {
+    if (!exportsByCategory[f.category]) exportsByCategory[f.category] = 0;
+    exportsByCategory[f.category] += f.tiv || 0;
+  });
+  
+  imports.forEach(f => {
+    if (!importsByCategory[f.category]) importsByCategory[f.category] = 0;
+    importsByCategory[f.category] += f.tiv || 0;
+  });
+  
+  // Get country name from flows (use supplier_name or recipient_name from any flow involving this country)
+  let countryName = isoCode;
+  const nameFlow = countryFlows.find(f => f.supplier_iso === isoCode && f.supplier_name);
+  if (nameFlow) {
+    countryName = nameFlow.supplier_name;
+  } else {
+    const nameFlow2 = countryFlows.find(f => f.recipient_iso === isoCode && f.recipient_name);
+    if (nameFlow2) countryName = nameFlow2.recipient_name;
+  }
+  
+  // Get region from by_country if available
+  let region = 'Unknown';
+  if (countryEntry && countryEntry.region) {
+    region = countryEntry.region;
+  }
+  
+  // Aggregate by year
+  const yearlyExportsMap = {};
+  const yearlyImportsMap = {};
+  
+  exports.forEach(f => {
+    const year = f.year;
+    if (!yearlyExportsMap[year]) yearlyExportsMap[year] = 0;
+    yearlyExportsMap[year] += f.tiv || 0;
+  });
+  
+  imports.forEach(f => {
+    const year = f.year;
+    if (!yearlyImportsMap[year]) yearlyImportsMap[year] = 0;
+    yearlyImportsMap[year] += f.tiv || 0;
+  });
+  
+  // Convert to sorted arrays
+  const yearlyExports = Object.entries(yearlyExportsMap)
+    .map(([year, tiv]) => ({ year: parseInt(year), tiv }))
+    .sort((a, b) => a.year - b.year);
+  
+  const yearlyImports = Object.entries(yearlyImportsMap)
+    .map(([year, tiv]) => ({ year: parseInt(year), tiv }))
+    .sort((a, b) => a.year - b.year);
+  
+  return {
+    name: countryName,
+    iso: isoCode,
+    region: region,
+    total_exported_tiv: totalExportedTiv,
+    total_imported_tiv: totalImportedTiv,
+    top_export_partners: topExportPartners,
+    top_import_partners: topImportPartners,
+    exports_by_category: exportsByCategory,
+    imports_by_category: importsByCategory,
+    yearly_exports: yearlyExports,
+    yearly_imports: yearlyImports
+  };
 };
 
 export const loadAllCountries = async () => {
-  if (!countryProfileCache) {
-    countryProfileCache = await fetchJson('/data/by_country.json');
-  }
-  return countryProfileCache;
+  // Always fetch fresh to bust cache
+  return await fetchJson('/data/by_country.json?' + Date.now());
 };
 
 export const loadYearlyTotals = async () => {

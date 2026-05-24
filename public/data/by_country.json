@@ -7238,10 +7238,10 @@
       }
     ]
   },
-  "Bosnia-Herzegovina": {
-    "iso": "Bosnia-Herzegovina",
+  "BIH": {
+    "iso": "BIH",
     "name": "Bosnia-Herzegovina",
-    "region": "Unknown",
+    "region": "Europe",
     "total_exported_tiv": 34.120000000000005,
     "total_imported_tiv": 190.28000000000003,
     "top_export_partners": [
@@ -7688,8 +7688,8 @@
       }
     ]
   },
-  "Turkiye": {
-    "iso": "Turkiye",
+  "TUR": {
+    "iso": "TUR",
     "name": "Turkiye",
     "region": "Unknown",
     "total_exported_tiv": 5543.889999999999,
@@ -12963,8 +12963,8 @@
       }
     ]
   },
-  "East Germany (GDR)": {
-    "iso": "East Germany (GDR)",
+  "DDR": {
+    "iso": "DDR",
     "name": "East Germany (GDR)",
     "region": "Unknown",
     "total_exported_tiv": 827.3299999999999,
@@ -19700,10 +19700,10 @@
       }
     ]
   },
-  "Moldova": {
-    "iso": "Moldova",
+  "MDA": {
+    "iso": "MDA",
     "name": "Moldova",
-    "region": "Unknown",
+    "region": "Europe",
     "total_exported_tiv": 486.86,
     "total_imported_tiv": 42.48,
     "top_export_partners": [
@@ -19854,8 +19854,8 @@
       }
     ]
   },
-  "Hungary": {
-    "iso": "Hungary",
+  "HUN": {
+    "iso": "HUN",
     "name": "Hungary",
     "region": "Unknown",
     "total_exported_tiv": 442.14,
@@ -22147,10 +22147,10 @@
       }
     ]
   },
-  "Lithuania": {
-    "iso": "Lithuania",
+  "LTU": {
+    "iso": "LTU",
     "name": "Lithuania",
-    "region": "Unknown",
+    "region": "Europe",
     "total_exported_tiv": 99.14,
     "total_imported_tiv": 1027.0,
     "top_export_partners": [
@@ -22376,10 +22376,10 @@
       }
     ]
   },
-  "Dominican Republic": {
-    "iso": "Dominican Republic",
+  "DOM": {
+    "iso": "DOM",
     "name": "Dominican Republic",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 4.24,
     "total_imported_tiv": 477.18,
     "top_export_partners": [
@@ -23592,10 +23592,10 @@
       }
     ]
   },
-  "Montenegro": {
-    "iso": "Montenegro",
+  "MNE": {
+    "iso": "MNE",
     "name": "Montenegro",
-    "region": "Unknown",
+    "region": "Europe",
     "total_exported_tiv": 202.70000000000005,
     "total_imported_tiv": 30.63,
     "top_export_partners": [
@@ -25935,10 +25935,10 @@
       }
     ]
   },
-  "Georgia": {
-    "iso": "Georgia",
+  "GEO": {
+    "iso": "GEO",
     "name": "Georgia",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 213.1,
     "total_imported_tiv": 801.53,
     "top_export_partners": [
@@ -27289,8 +27289,8 @@
       }
     ]
   },
-  "Malta": {
-    "iso": "Malta",
+  "MLT": {
+    "iso": "MLT",
     "name": "Malta",
     "region": "Unknown",
     "total_exported_tiv": 15.2,
@@ -30562,10 +30562,10 @@
       }
     ]
   },
-  "Gabon": {
-    "iso": "Gabon",
+  "GAB": {
+    "iso": "GAB",
     "name": "Gabon",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 1.0,
     "total_imported_tiv": 631.6999999999999,
     "top_export_partners": [
@@ -35308,10 +35308,10 @@
       }
     ]
   },
-  "Albania": {
-    "iso": "Albania",
+  "ALB": {
+    "iso": "ALB",
     "name": "Albania",
-    "region": "Unknown",
+    "region": "Europe",
     "total_exported_tiv": 1.2,
     "total_imported_tiv": 2876.3399999999997,
     "top_export_partners": [
@@ -35994,10 +35994,10 @@
       }
     ]
   },
-  "Malawi": {
-    "iso": "Malawi",
+  "MWI": {
+    "iso": "MWI",
     "name": "Malawi",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.88,
     "total_imported_tiv": 128.92,
     "top_export_partners": [
@@ -36527,10 +36527,10 @@
       }
     ]
   },
-  "Seychelles": {
-    "iso": "Seychelles",
+  "SYC": {
+    "iso": "SYC",
     "name": "Seychelles",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.8999999999999999,
     "total_imported_tiv": 137.8,
     "top_export_partners": [
@@ -37256,10 +37256,10 @@
       }
     ]
   },
-  "Kyrgyzstan": {
-    "iso": "Kyrgyzstan",
+  "KGZ": {
+    "iso": "KGZ",
     "name": "Kyrgyzstan",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 281.7,
     "total_imported_tiv": 133.11,
     "top_export_partners": [
@@ -37760,10 +37760,10 @@
       }
     ]
   },
-  "Bahrain": {
-    "iso": "Bahrain",
+  "BHR": {
+    "iso": "BHR",
     "name": "Bahrain",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 2.0,
     "total_imported_tiv": 4316.63,
     "top_export_partners": [
@@ -38824,10 +38824,10 @@
       }
     ]
   },
-  "Costa Rica": {
-    "iso": "Costa Rica",
+  "CRI": {
+    "iso": "CRI",
     "name": "Costa Rica",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 5.18,
     "total_imported_tiv": 30.94,
     "top_export_partners": [
@@ -39196,10 +39196,10 @@
       }
     ]
   },
-  "Panama": {
-    "iso": "Panama",
+  "PAN": {
+    "iso": "PAN",
     "name": "Panama",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 2.58,
     "total_imported_tiv": 155.53,
     "top_export_partners": [
@@ -39338,10 +39338,10 @@
       }
     ]
   },
-  "Zimbabwe": {
-    "iso": "Zimbabwe",
+  "ZWE": {
+    "iso": "ZWE",
     "name": "Zimbabwe",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 5.41,
     "total_imported_tiv": 1022.1400000000001,
     "top_export_partners": [
@@ -39695,10 +39695,10 @@
       }
     ]
   },
-  "Bahamas": {
-    "iso": "Bahamas",
+  "BHS": {
+    "iso": "BHS",
     "name": "Bahamas",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.24,
     "total_imported_tiv": 163.1,
     "top_export_partners": [
@@ -41589,10 +41589,10 @@
       }
     ]
   },
-  "Ghana": {
-    "iso": "Ghana",
+  "GHA": {
+    "iso": "GHA",
     "name": "Ghana",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 25.06,
     "total_imported_tiv": 910.76,
     "top_export_partners": [
@@ -42519,8 +42519,8 @@
       }
     ]
   },
-  "Iceland": {
-    "iso": "Iceland",
+  "ISL": {
+    "iso": "ISL",
     "name": "Iceland",
     "region": "Unknown",
     "total_exported_tiv": 5.42,
@@ -43100,10 +43100,10 @@
       }
     ]
   },
-  "Azerbaijan": {
-    "iso": "Azerbaijan",
+  "AZE": {
+    "iso": "AZE",
     "name": "Azerbaijan",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 2.16,
     "total_imported_tiv": 4912.46,
     "top_export_partners": [
@@ -43692,10 +43692,10 @@
       }
     ]
   },
-  "Brunei": {
-    "iso": "Brunei",
+  "BRN": {
+    "iso": "BRN",
     "name": "Brunei",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 35.6,
     "total_imported_tiv": 956.24,
     "top_export_partners": [
@@ -43933,10 +43933,10 @@
       }
     ]
   },
-  "Slovenia": {
-    "iso": "Slovenia",
+  "SVN": {
+    "iso": "SVN",
     "name": "Slovenia",
-    "region": "Unknown",
+    "region": "Europe",
     "total_exported_tiv": 53.160000000000004,
     "total_imported_tiv": 346.59000000000003,
     "top_export_partners": [
@@ -44128,10 +44128,10 @@
       }
     ]
   },
-  "Estonia": {
-    "iso": "Estonia",
+  "EST": {
+    "iso": "EST",
     "name": "Estonia",
-    "region": "Unknown",
+    "region": "Europe",
     "total_exported_tiv": 33.42,
     "total_imported_tiv": 789.64,
     "top_export_partners": [
@@ -44623,10 +44623,10 @@
       }
     ]
   },
-  "Aruba": {
-    "iso": "Aruba",
+  "ABW": {
+    "iso": "ABW",
     "name": "Aruba",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 17.8,
     "total_imported_tiv": 0.0,
     "top_export_partners": [
@@ -44989,10 +44989,10 @@
       }
     ]
   },
-  "Lebanon": {
-    "iso": "Lebanon",
+  "LBN": {
+    "iso": "LBN",
     "name": "Lebanon",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 50.46,
     "total_imported_tiv": 1781.31,
     "top_export_partners": [
@@ -45312,10 +45312,10 @@
       }
     ]
   },
-  "Zambia": {
-    "iso": "Zambia",
+  "ZMB": {
+    "iso": "ZMB",
     "name": "Zambia",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 1.5,
     "total_imported_tiv": 1294.7400000000005,
     "top_export_partners": [
@@ -45813,10 +45813,10 @@
       }
     ]
   },
-  "Sri Lanka": {
-    "iso": "Sri Lanka",
+  "LKA": {
+    "iso": "LKA",
     "name": "Sri Lanka",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 8.0,
     "total_imported_tiv": 2501.45,
     "top_export_partners": [
@@ -46138,212 +46138,6 @@
     ],
     "yearly_imports": []
   },
-  "Niger": {
-    "iso": "Niger",
-    "name": "Niger",
-    "region": "Unknown",
-    "total_exported_tiv": 0.28,
-    "total_imported_tiv": 286.61,
-    "top_export_partners": [
-      {
-        "iso": "Mauritania",
-        "tiv": 0.28
-      }
-    ],
-    "top_import_partners": [
-      {
-        "iso": "USA",
-        "tiv": 100.61
-      },
-      {
-        "iso": "FRA",
-        "tiv": 66.78
-      },
-      {
-        "iso": "Turkiye",
-        "tiv": 32.1
-      },
-      {
-        "iso": "RUS",
-        "tiv": 21.7
-      },
-      {
-        "iso": "DEU",
-        "tiv": 19.599999999999998
-      },
-      {
-        "iso": "UKR",
-        "tiv": 9.2
-      },
-      {
-        "iso": "ITA",
-        "tiv": 8.0
-      },
-      {
-        "iso": "ZAF",
-        "tiv": 7.21
-      },
-      {
-        "iso": "unknown supplier(s)",
-        "tiv": 5.8
-      },
-      {
-        "iso": "CHN",
-        "tiv": 4.09
-      }
-    ],
-    "exports_by_category": {
-      "Aircraft": 0.28
-    },
-    "imports_by_category": {
-      "Air-defence systems": 5.5,
-      "Aircraft": 196.74,
-      "Armoured vehicles": 79.81,
-      "Artillery": 3.3600000000000003,
-      "Engines": 1.0,
-      "Missiles": 0.2
-    },
-    "yearly_exports": [
-      {
-        "year": 1973,
-        "tiv": 0.28
-      }
-    ],
-    "yearly_imports": [
-      {
-        "year": 1960,
-        "tiv": 1.0899999999999999
-      },
-      {
-        "year": 1961,
-        "tiv": 1.0
-      },
-      {
-        "year": 1964,
-        "tiv": 0.61
-      },
-      {
-        "year": 1965,
-        "tiv": 1.32
-      },
-      {
-        "year": 1969,
-        "tiv": 2.35
-      },
-      {
-        "year": 1970,
-        "tiv": 0.5
-      },
-      {
-        "year": 1971,
-        "tiv": 11.899999999999999
-      },
-      {
-        "year": 1974,
-        "tiv": 2.5
-      },
-      {
-        "year": 1978,
-        "tiv": 1.8
-      },
-      {
-        "year": 1979,
-        "tiv": 56.9
-      },
-      {
-        "year": 1980,
-        "tiv": 7.52
-      },
-      {
-        "year": 1982,
-        "tiv": 5.5
-      },
-      {
-        "year": 1983,
-        "tiv": 25.2
-      },
-      {
-        "year": 1984,
-        "tiv": 3.0
-      },
-      {
-        "year": 1986,
-        "tiv": 3.04
-      },
-      {
-        "year": 1991,
-        "tiv": 14.0
-      },
-      {
-        "year": 1997,
-        "tiv": 3.4
-      },
-      {
-        "year": 2003,
-        "tiv": 5.8
-      },
-      {
-        "year": 2008,
-        "tiv": 8.2
-      },
-      {
-        "year": 2009,
-        "tiv": 1.09
-      },
-      {
-        "year": 2013,
-        "tiv": 12.219999999999999
-      },
-      {
-        "year": 2014,
-        "tiv": 3.36
-      },
-      {
-        "year": 2015,
-        "tiv": 9.74
-      },
-      {
-        "year": 2016,
-        "tiv": 0.4
-      },
-      {
-        "year": 2017,
-        "tiv": 3.0
-      },
-      {
-        "year": 2018,
-        "tiv": 1.05
-      },
-      {
-        "year": 2019,
-        "tiv": 4.68
-      },
-      {
-        "year": 2020,
-        "tiv": 18.9
-      },
-      {
-        "year": 2021,
-        "tiv": 16.38
-      },
-      {
-        "year": 2022,
-        "tiv": 33.5
-      },
-      {
-        "year": 2023,
-        "tiv": 18.96
-      },
-      {
-        "year": 2024,
-        "tiv": 3.5
-      },
-      {
-        "year": 2025,
-        "tiv": 4.2
-      }
-    ]
-  },
   "FMLN (El Salvador)*": {
     "iso": "FMLN (El Salvador)*",
     "name": "FMLN (El Salvador)*",
@@ -46385,10 +46179,10 @@
       }
     ]
   },
-  "Guatemala": {
-    "iso": "Guatemala",
+  "GTM": {
+    "iso": "GTM",
     "name": "Guatemala",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.84,
     "total_imported_tiv": 418.6700000000001,
     "top_export_partners": [
@@ -46628,10 +46422,10 @@
       }
     ]
   },
-  "Latvia": {
-    "iso": "Latvia",
+  "LVA": {
+    "iso": "LVA",
     "name": "Latvia",
-    "region": "Unknown",
+    "region": "Europe",
     "total_exported_tiv": 26.82,
     "total_imported_tiv": 519.93,
     "top_export_partners": [
@@ -46854,10 +46648,10 @@
       }
     ]
   },
-  "Cyprus": {
-    "iso": "Cyprus",
+  "CYP": {
+    "iso": "CYP",
     "name": "Cyprus",
-    "region": "Unknown",
+    "region": "Europe",
     "total_exported_tiv": 73.2,
     "total_imported_tiv": 1693.95,
     "top_export_partners": [
@@ -47094,8 +46888,8 @@
       }
     ]
   },
-  "Luxembourg": {
-    "iso": "Luxembourg",
+  "LUX": {
+    "iso": "LUX",
     "name": "Luxembourg",
     "region": "Unknown",
     "total_exported_tiv": 0.24,
@@ -47644,10 +47438,10 @@
       }
     ]
   },
-  "Comoros": {
-    "iso": "Comoros",
+  "COM": {
+    "iso": "COM",
     "name": "Comoros",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 5.0,
     "total_imported_tiv": 9.79,
     "top_export_partners": [
@@ -47722,10 +47516,10 @@
       }
     ]
   },
-  "Guyana": {
-    "iso": "Guyana",
+  "GUY": {
+    "iso": "GUY",
     "name": "Guyana",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 2.1,
     "total_imported_tiv": 119.29,
     "top_export_partners": [
@@ -48297,10 +48091,10 @@
       }
     ]
   },
-  "North Macedonia": {
-    "iso": "North Macedonia",
+  "MKD": {
+    "iso": "MKD",
     "name": "North Macedonia",
-    "region": "Unknown",
+    "region": "Europe",
     "total_exported_tiv": 90.4,
     "total_imported_tiv": 279.24,
     "top_export_partners": [
@@ -48436,10 +48230,10 @@
       }
     ]
   },
-  "Fiji": {
-    "iso": "Fiji",
+  "FJI": {
+    "iso": "FJI",
     "name": "Fiji",
-    "region": "Unknown",
+    "region": "Oceania",
     "total_exported_tiv": 10.0,
     "total_imported_tiv": 58.91,
     "top_export_partners": [
@@ -49334,10 +49128,10 @@
       }
     ]
   },
-  "Mozambique": {
-    "iso": "Mozambique",
+  "MOZ": {
+    "iso": "MOZ",
     "name": "Mozambique",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 1.2,
     "total_imported_tiv": 1376.47,
     "top_export_partners": [
@@ -49877,10 +49671,10 @@
       }
     ]
   },
-  "Antigua and Barbuda": {
-    "iso": "Antigua and Barbuda",
+  "ATG": {
+    "iso": "ATG",
     "name": "Antigua and Barbuda",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 0.54,
     "top_export_partners": [],
@@ -49935,10 +49729,10 @@
       }
     ]
   },
-  "Barbados": {
-    "iso": "Barbados",
+  "BRB": {
+    "iso": "BRB",
     "name": "Barbados",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 40.25,
     "top_export_partners": [],
@@ -49985,10 +49779,10 @@
       }
     ]
   },
-  "Belize": {
-    "iso": "Belize",
+  "BLZ": {
+    "iso": "BLZ",
     "name": "Belize",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 4.52,
     "top_export_partners": [],
@@ -50034,10 +49828,10 @@
       }
     ]
   },
-  "Benin": {
-    "iso": "Benin",
+  "BEN": {
+    "iso": "BEN",
     "name": "Benin",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 119.6,
     "top_export_partners": [],
@@ -50211,10 +50005,10 @@
       }
     ]
   },
-  "Bhutan": {
-    "iso": "Bhutan",
+  "BTN": {
+    "iso": "BTN",
     "name": "Bhutan",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 7.260000000000001,
     "top_export_partners": [],
@@ -50589,10 +50383,10 @@
       }
     ]
   },
-  "Botswana": {
-    "iso": "Botswana",
+  "BWA": {
+    "iso": "BWA",
     "name": "Botswana",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 510.77,
     "top_export_partners": [],
@@ -50789,10 +50583,10 @@
       }
     ]
   },
-  "Burkina Faso": {
-    "iso": "Burkina Faso",
+  "BFA": {
+    "iso": "BFA",
     "name": "Burkina Faso",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 316.15,
     "top_export_partners": [],
@@ -51010,10 +50804,10 @@
       }
     ]
   },
-  "Burundi": {
-    "iso": "Burundi",
+  "BDI": {
+    "iso": "BDI",
     "name": "Burundi",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 80.59,
     "top_export_partners": [],
@@ -51480,10 +51274,10 @@
       }
     ]
   },
-  "Central African Republic": {
-    "iso": "Central African Republic",
+  "CAF": {
+    "iso": "CAF",
     "name": "Central African Republic",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 137.51,
     "top_export_partners": [],
@@ -51941,10 +51735,10 @@
       }
     ]
   },
-  "Djibouti": {
-    "iso": "Djibouti",
+  "DJI": {
+    "iso": "DJI",
     "name": "Djibouti",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 233.12,
     "top_export_partners": [],
@@ -52433,10 +52227,10 @@
       }
     ]
   },
-  "Equatorial Guinea": {
-    "iso": "Equatorial Guinea",
+  "GNQ": {
+    "iso": "GNQ",
     "name": "Equatorial Guinea",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 415.08000000000004,
     "top_export_partners": [],
@@ -52572,10 +52366,10 @@
       }
     ]
   },
-  "eSwatini": {
-    "iso": "eSwatini",
+  "SWZ": {
+    "iso": "SWZ",
     "name": "eSwatini",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 10.0,
     "top_export_partners": [],
@@ -52693,10 +52487,10 @@
       }
     ]
   },
-  "Gambia": {
-    "iso": "Gambia",
+  "GMB": {
+    "iso": "GMB",
     "name": "Gambia",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 38.5,
     "top_export_partners": [],
@@ -52772,10 +52566,10 @@
       }
     ]
   },
-  "Grenada": {
-    "iso": "Grenada",
+  "GRD": {
+    "iso": "GRD",
     "name": "Grenada",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 1.2,
     "top_export_partners": [],
@@ -52797,10 +52591,10 @@
       }
     ]
   },
-  "Guinea": {
-    "iso": "Guinea",
+  "GIN": {
+    "iso": "GIN",
     "name": "Guinea",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 431.81999999999994,
     "top_export_partners": [],
@@ -53028,10 +52822,10 @@
       }
     ]
   },
-  "Guinea-Bissau": {
-    "iso": "Guinea-Bissau",
+  "GNB": {
+    "iso": "GNB",
     "name": "Guinea-Bissau",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 186.87,
     "top_export_partners": [],
@@ -53168,10 +52962,10 @@
       }
     ]
   },
-  "Haiti": {
-    "iso": "Haiti",
+  "HTI": {
+    "iso": "HTI",
     "name": "Haiti",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 66.96000000000001,
     "top_export_partners": [],
@@ -53800,10 +53594,10 @@
       }
     ]
   },
-  "Jamaica": {
-    "iso": "Jamaica",
+  "JAM": {
+    "iso": "JAM",
     "name": "Jamaica",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 212.54,
     "top_export_partners": [],
@@ -54076,8 +53870,8 @@
       }
     ]
   },
-  "Kosovo": {
-    "iso": "Kosovo",
+  "XKX": {
+    "iso": "XKX",
     "name": "Kosovo",
     "region": "Unknown",
     "total_exported_tiv": 0.0,
@@ -54161,10 +53955,10 @@
       }
     ]
   },
-  "Laos": {
-    "iso": "Laos",
+  "LAO": {
+    "iso": "LAO",
     "name": "Laos",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 1148.18,
     "top_export_partners": [],
@@ -54478,10 +54272,10 @@
       }
     ]
   },
-  "Lesotho": {
-    "iso": "Lesotho",
+  "LSO": {
+    "iso": "LSO",
     "name": "Lesotho",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 48.900000000000006,
     "top_export_partners": [],
@@ -54651,10 +54445,10 @@
       }
     ]
   },
-  "Liberia": {
-    "iso": "Liberia",
+  "LBR": {
+    "iso": "LBR",
     "name": "Liberia",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 79.92,
     "top_export_partners": [],
@@ -54860,10 +54654,10 @@
       }
     ]
   },
-  "Madagascar": {
-    "iso": "Madagascar",
+  "MDG": {
+    "iso": "MDG",
     "name": "Madagascar",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 197.04,
     "top_export_partners": [],
@@ -55005,10 +54799,10 @@
       }
     ]
   },
-  "Maldives": {
-    "iso": "Maldives",
+  "MDV": {
+    "iso": "MDV",
     "name": "Maldives",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 58.650000000000006,
     "top_export_partners": [],
@@ -55307,10 +55101,10 @@
       }
     ]
   },
-  "Mauritania": {
-    "iso": "Mauritania",
+  "MRT": {
+    "iso": "MRT",
     "name": "Mauritania",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 564.97,
     "top_export_partners": [],
@@ -55535,10 +55329,10 @@
       }
     ]
   },
-  "Mauritius": {
-    "iso": "Mauritius",
+  "MUS": {
+    "iso": "MUS",
     "name": "Mauritius",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 147.53,
     "top_export_partners": [],
@@ -55669,10 +55463,10 @@
       }
     ]
   },
-  "Mongolia": {
-    "iso": "Mongolia",
+  "MNG": {
+    "iso": "MNG",
     "name": "Mongolia",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 2293.91,
     "top_export_partners": [],
@@ -56283,10 +56077,10 @@
       }
     ]
   },
-  "Namibia": {
-    "iso": "Namibia",
+  "NAM": {
+    "iso": "NAM",
     "name": "Namibia",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 345.71,
     "top_export_partners": [],
@@ -56598,10 +56392,10 @@
       }
     ]
   },
-  "Nepal": {
-    "iso": "Nepal",
+  "NPL": {
+    "iso": "NPL",
     "name": "Nepal",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 220.20999999999998,
     "top_export_partners": [],
@@ -56953,10 +56747,10 @@
       }
     ]
   },
-  "Palestine": {
-    "iso": "Palestine",
+  "PSE": {
+    "iso": "PSE",
     "name": "Palestine",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 39.98,
     "top_export_partners": [],
@@ -57048,10 +56842,10 @@
       }
     ]
   },
-  "Papua New Guinea": {
-    "iso": "Papua New Guinea",
+  "PNG": {
+    "iso": "PNG",
     "name": "Papua New Guinea",
-    "region": "Unknown",
+    "region": "Oceania",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 143.51999999999998,
     "top_export_partners": [],
@@ -57713,10 +57507,10 @@
       }
     ]
   },
-  "Rwanda": {
-    "iso": "Rwanda",
+  "RWA": {
+    "iso": "RWA",
     "name": "Rwanda",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 337.83,
     "top_export_partners": [],
@@ -57924,10 +57718,10 @@
       }
     ]
   },
-  "Saint Kitts and Nevis": {
-    "iso": "Saint Kitts and Nevis",
+  "KNA": {
+    "iso": "KNA",
     "name": "Saint Kitts and Nevis",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 5.5,
     "top_export_partners": [],
@@ -57974,10 +57768,10 @@
       }
     ]
   },
-  "Sierra Leone": {
-    "iso": "Sierra Leone",
+  "SLE": {
+    "iso": "SLE",
     "name": "Sierra Leone",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 160.74,
     "top_export_partners": [],
@@ -58177,10 +57971,10 @@
       }
     ]
   },
-  "Solomon Islands": {
-    "iso": "Solomon Islands",
+  "SLB": {
+    "iso": "SLB",
     "name": "Solomon Islands",
-    "region": "Unknown",
+    "region": "Oceania",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 26.0,
     "top_export_partners": [],
@@ -58421,10 +58215,10 @@
       }
     ]
   },
-  "South Sudan": {
-    "iso": "South Sudan",
+  "SSD": {
+    "iso": "SSD",
     "name": "South Sudan",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 248.68999999999997,
     "top_export_partners": [],
@@ -58577,10 +58371,10 @@
       }
     ]
   },
-  "Suriname": {
-    "iso": "Suriname",
+  "SUR": {
+    "iso": "SUR",
     "name": "Suriname",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 79.57999999999998,
     "top_export_partners": [],
@@ -58753,10 +58547,10 @@
       }
     ]
   },
-  "Tajikistan": {
-    "iso": "Tajikistan",
+  "TJK": {
+    "iso": "TJK",
     "name": "Tajikistan",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 199.49999999999997,
     "top_export_partners": [],
@@ -58843,10 +58637,10 @@
       }
     ]
   },
-  "Tanzania": {
-    "iso": "Tanzania",
+  "TZA": {
+    "iso": "TZA",
     "name": "Tanzania",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 1662.4699999999998,
     "top_export_partners": [],
@@ -59063,10 +58857,10 @@
       }
     ]
   },
-  "Timor-Leste": {
-    "iso": "Timor-Leste",
+  "TLS": {
+    "iso": "TLS",
     "name": "Timor-Leste",
-    "region": "Unknown",
+    "region": "Asia",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 32.4,
     "top_export_partners": [],
@@ -59096,10 +58890,10 @@
       }
     ]
   },
-  "Togo": {
-    "iso": "Togo",
+  "TGO": {
+    "iso": "TGO",
     "name": "Togo",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 295.84000000000003,
     "top_export_partners": [],
@@ -59295,10 +59089,10 @@
       }
     ]
   },
-  "Tonga": {
-    "iso": "Tonga",
+  "TON": {
+    "iso": "TON",
     "name": "Tonga",
-    "region": "Unknown",
+    "region": "Oceania",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 32.290000000000006,
     "top_export_partners": [],
@@ -59353,10 +59147,10 @@
       }
     ]
   },
-  "Trinidad and Tobago": {
-    "iso": "Trinidad and Tobago",
+  "TTO": {
+    "iso": "TTO",
     "name": "Trinidad and Tobago",
-    "region": "Unknown",
+    "region": "Americas",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 225.91,
     "top_export_partners": [],
@@ -59468,10 +59262,10 @@
       }
     ]
   },
-  "Tunisia": {
-    "iso": "Tunisia",
+  "TUN": {
+    "iso": "TUN",
     "name": "Tunisia",
-    "region": "Unknown",
+    "region": "Africa",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 2512.5499999999997,
     "top_export_partners": [],
@@ -60286,10 +60080,10 @@
       }
     ]
   },
-  "Vanuatu": {
-    "iso": "Vanuatu",
+  "VUT": {
+    "iso": "VUT",
     "name": "Vanuatu",
-    "region": "Unknown",
+    "region": "Oceania",
     "total_exported_tiv": 0.0,
     "total_imported_tiv": 13.0,
     "top_export_partners": [],
@@ -60382,8 +60176,8 @@
       }
     ]
   },
-  "Western Sahara": {
-    "iso": "Western Sahara",
+  "ESH": {
+    "iso": "ESH",
     "name": "Western Sahara",
     "region": "Unknown",
     "total_exported_tiv": 0.0,
@@ -60529,6 +60323,212 @@
       {
         "year": 1979,
         "tiv": 0.2
+      }
+    ]
+  },
+  "NER": {
+    "iso": "NER",
+    "name": "Niger",
+    "region": "Africa",
+    "total_exported_tiv": 0.28,
+    "total_imported_tiv": 286.61,
+    "top_export_partners": [
+      {
+        "iso": "Mauritania",
+        "tiv": 0.28
+      }
+    ],
+    "top_import_partners": [
+      {
+        "iso": "USA",
+        "tiv": 100.61
+      },
+      {
+        "iso": "FRA",
+        "tiv": 66.78
+      },
+      {
+        "iso": "Turkiye",
+        "tiv": 32.1
+      },
+      {
+        "iso": "RUS",
+        "tiv": 21.7
+      },
+      {
+        "iso": "DEU",
+        "tiv": 19.599999999999998
+      },
+      {
+        "iso": "UKR",
+        "tiv": 9.2
+      },
+      {
+        "iso": "ITA",
+        "tiv": 8.0
+      },
+      {
+        "iso": "ZAF",
+        "tiv": 7.21
+      },
+      {
+        "iso": "unknown supplier(s)",
+        "tiv": 5.8
+      },
+      {
+        "iso": "CHN",
+        "tiv": 4.09
+      }
+    ],
+    "exports_by_category": {
+      "Aircraft": 0.28
+    },
+    "imports_by_category": {
+      "Air-defence systems": 5.5,
+      "Aircraft": 196.74,
+      "Armoured vehicles": 79.81,
+      "Artillery": 3.3600000000000003,
+      "Engines": 1.0,
+      "Missiles": 0.2
+    },
+    "yearly_exports": [
+      {
+        "year": 1973,
+        "tiv": 0.28
+      }
+    ],
+    "yearly_imports": [
+      {
+        "year": 1960,
+        "tiv": 1.0899999999999999
+      },
+      {
+        "year": 1961,
+        "tiv": 1.0
+      },
+      {
+        "year": 1964,
+        "tiv": 0.61
+      },
+      {
+        "year": 1965,
+        "tiv": 1.32
+      },
+      {
+        "year": 1969,
+        "tiv": 2.35
+      },
+      {
+        "year": 1970,
+        "tiv": 0.5
+      },
+      {
+        "year": 1971,
+        "tiv": 11.899999999999999
+      },
+      {
+        "year": 1974,
+        "tiv": 2.5
+      },
+      {
+        "year": 1978,
+        "tiv": 1.8
+      },
+      {
+        "year": 1979,
+        "tiv": 56.9
+      },
+      {
+        "year": 1980,
+        "tiv": 7.52
+      },
+      {
+        "year": 1982,
+        "tiv": 5.5
+      },
+      {
+        "year": 1983,
+        "tiv": 25.2
+      },
+      {
+        "year": 1984,
+        "tiv": 3.0
+      },
+      {
+        "year": 1986,
+        "tiv": 3.04
+      },
+      {
+        "year": 1991,
+        "tiv": 14.0
+      },
+      {
+        "year": 1997,
+        "tiv": 3.4
+      },
+      {
+        "year": 2003,
+        "tiv": 5.8
+      },
+      {
+        "year": 2008,
+        "tiv": 8.2
+      },
+      {
+        "year": 2009,
+        "tiv": 1.09
+      },
+      {
+        "year": 2013,
+        "tiv": 12.219999999999999
+      },
+      {
+        "year": 2014,
+        "tiv": 3.36
+      },
+      {
+        "year": 2015,
+        "tiv": 9.74
+      },
+      {
+        "year": 2016,
+        "tiv": 0.4
+      },
+      {
+        "year": 2017,
+        "tiv": 3.0
+      },
+      {
+        "year": 2018,
+        "tiv": 1.05
+      },
+      {
+        "year": 2019,
+        "tiv": 4.68
+      },
+      {
+        "year": 2020,
+        "tiv": 18.9
+      },
+      {
+        "year": 2021,
+        "tiv": 16.38
+      },
+      {
+        "year": 2022,
+        "tiv": 33.5
+      },
+      {
+        "year": 2023,
+        "tiv": 18.96
+      },
+      {
+        "year": 2024,
+        "tiv": 3.5
+      },
+      {
+        "year": 2025,
+        "tiv": 4.2
       }
     ]
   }
