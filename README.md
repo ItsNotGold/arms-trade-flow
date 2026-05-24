@@ -15,7 +15,7 @@ Arms Trade Flow provides comprehensive insights into international arms transfer
 ### Multiple Visualization Modes
 
 - **Flat Map View**: 2D geographic visualization with animated weapon flow arcs showing transfer relationships between countries
-- **Globe View**: 3D interactive globe with real-time weapon flow rendering
+- **Globe View**: 3D interactive globe with real-time weapon flow rendering, auto-rotation with interactive pause, and NASA-style atmospheric effects
 - **Chord Diagram**: Network visualization showing relationships between countries and weapon categories
 
 ### Interactive Filtering
@@ -40,6 +40,21 @@ Click any country to view:
 - Search countries by name or ISO code
 - Search weapon systems by designation and category
 - Instant navigation to selected country profiles
+- **Features**: 
+  - Collapsed pill-shaped button with magnifying glass icon
+  - Expands to full input on click with auto-focus
+  - Simultaneous country and weapon system search
+  - Flag emojis and weapon icons for visual distinction
+  - Keyboard navigation (arrow keys, Enter to select, Escape to close)
+  - Results limited to 8 total with smooth scrolling
+  - Click country to rotate globe, click weapon to open system details
+
+### Globe Visualization Enhancements
+
+- **Auto-Rotation**: Slow continuous rotation (0.3°/second) with interactive pause on user input
+- **Atmosphere**: NASA-style deep blue glow (#1a3a6e) at globe edge for depth effect
+- **Arc Rendering**: Dynamic arc altitude based on intensity (0.15 to 0.60 range) for proper 3D layering
+- **Scene Background**: Deep space background (#0a0c10) that integrates seamlessly with app design
 
 ### Timeline & Playback
 
