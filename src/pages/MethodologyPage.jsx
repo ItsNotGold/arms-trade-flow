@@ -49,16 +49,7 @@ export default function MethodologyPage() {
           </p>
         </section>
 
-        {/* 3. SUPPLEMENTARY SOURCES */}
-        <section className="mb-8">
-          <h2 className="text-2xl font-semibold mb-3">Supplementary Sources</h2>
-          <ul className="list-disc list-inside ml-4">
-            <li><strong>UN Comtrade</strong> – financial values for HS code 93 (arms and ammunition).</li>
-            <li><strong>UNROCA</strong> – self‑reported national arms‑production figures across seven categories.</li>
-            <li><strong>ACLED</strong> – conflict event data used for overlaying hotspots.</li>
-            <li><strong>UN Security Council resolutions</strong> – embargo information compiled from official resolutions.</li>
-          </ul>
-        </section>
+
 
         {/* 4. KNOWN GAPS & LIMITATIONS */}
         <section className="mb-8">
@@ -67,7 +58,7 @@ export default function MethodologyPage() {
             • Secret or classified transfers are not captured in SIPRI.<br />
             • Small arms and light weapons are largely excluded.<br />
             • Licensed production and domestic refurbishments are inconsistently reported.<br />
-            • UNROCA data rely on self‑reporting, which may be biased or incomplete.<br />
+
             • TIV is a volume metric, not a monetary one.
           </blockquote>
         </section>
@@ -103,7 +94,7 @@ export default function MethodologyPage() {
               <ExternalLink size={16} /> GitHub Repository
             </a>
           </p>
-          <p>Contributions such as country‑data corrections, embargo updates, translations or UI enhancements are warmly welcome.</p>
+          <p>Contributions such as country‑data corrections, translations or UI enhancements are warmly welcome.</p>
         </section>
       </article>
     </div>

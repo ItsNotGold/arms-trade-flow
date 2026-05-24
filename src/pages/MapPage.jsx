@@ -27,8 +27,6 @@ export default function MapPage() {
     minTiv,
     setMinTiv,
     selectedBlocs,
-    showEmbargoLayer,
-    toggleEmbargoLayer,
     focusedCountry,
     setFocusedCountry,
     setArcs,
@@ -56,8 +54,6 @@ export default function MapPage() {
     if (view) setActiveView(view);
     const country = params.get('country');
     if (country) setFocusedCountry(country);
-    const embargo = params.get('embargo');
-    if (embargo === 'true') toggleEmbargoLayer(true);
   }, []);
 
   // Update URL on changes
@@ -68,10 +64,9 @@ export default function MapPage() {
     params.set('minTiv', minTiv);
     params.set('view', activeView);
     if (focusedCountry) params.set('country', focusedCountry);
-    params.set('embargo', showEmbargoLayer);
     const newUrl = `${window.location.pathname}?${params.toString()}`;
     window.history.replaceState(null, '', newUrl);
-  }, [yearRange, activeWeaponCategories, minTiv, activeView, focusedCountry, showEmbargoLayer]);
+  }, [yearRange, activeWeaponCategories, minTiv, activeView, focusedCountry]);
 
   // Load flows
   useEffect(() => {
@@ -93,15 +88,15 @@ export default function MapPage() {
   };
 
   return (
-    <div className="relative w-full h-screen bg-background">
+    <div className="relative w-full h-screen bg-background flex flex-col">
       {/* Fixed filter overlay */}
       <FilterPanel />
 
-      {/* Search bar */}
-      <SearchBar />
+      {/* Search bar - only show for globe and flat maps */}
+      {(activeView === 'globe' || activeView === 'flat') && <SearchBar />}
 
       {/* Main visualization area */}
-      <div className="absolute inset-0">
+      <div className="absolute inset-0 pb-[80px]">
         {activeView === 'globe' && <GlobeView arcs={arcs} onArcClick={(arc) => setSelectedFlow(arc)} />}
         {activeView === 'flat' && (
           <Suspense fallback={<LoadingSpinner />}> 

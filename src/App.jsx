@@ -33,7 +33,7 @@ export default function App() {
               <span>Arms Trade Flow Project</span>
             </div>
             <p className="text-text-muted">
-              Built on ATT, SIPRI TIV volumes, and UNROCA public registries. Visualizing global transparency.
+              Built on ATT and SIPRI TIV volumes. Visualizing global transparency.
             </p>
           </div>
           

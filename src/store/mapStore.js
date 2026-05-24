@@ -48,6 +48,15 @@ export const useMapStore = create((set) => ({
   }),
   clearWeaponCategories: () => set({ activeWeaponCategories: [] }),
 
+  toggleBloc: (bloc) => set((state) => {
+    const isSelected = state.selectedBlocs.includes(bloc);
+    return {
+      selectedBlocs: isSelected
+        ? state.selectedBlocs.filter((b) => b !== bloc)
+        : [...state.selectedBlocs, bloc],
+    };
+  }),
+
   // View and UI state
   activeView: 'globe',
   setActiveView: (view) => set({ activeView: view }),
@@ -56,11 +65,6 @@ export const useMapStore = create((set) => ({
   isPlaying: false,
   setIsPlaying: (playing) => set({ isPlaying: playing }),
   toggleIsPlaying: () => set((state) => ({ isPlaying: !state.isPlaying })),
-
-  // Embargo layer
-  showEmbargoLayer: false,
-  setShowEmbargoLayer: (show) => set({ showEmbargoLayer: show }),
-  toggleEmbargoLayer: () => set((state) => ({ showEmbargoLayer: !state.showEmbargoLayer })),
 
   // Focused country
   focusedCountry: null,
@@ -90,7 +94,6 @@ export const useMapStore = create((set) => ({
     selectedBlocs: [],
     activeView: 'globe',
     isPlaying: false,
-    showEmbargoLayer: false,
     focusedCountry: null,
     selectedWeapon: null,
     selectedFlow: null,

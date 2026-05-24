@@ -24,8 +24,6 @@ export default function FilterPanel() {
     setMinTiv,
     selectedBlocs,
     toggleBloc,
-    showEmbargoLayer,
-    toggleEmbargoLayer,
     flowLimit,
     setFlowLimit,
     arcs
@@ -235,30 +233,13 @@ export default function FilterPanel() {
           </select>
         </div>
 
-        {/* 6. EMBARGO OVERLAY TOGGLE */}
-        <div className="flex flex-col gap-3">
-          <label className="text-xs font-semibold tracking-wide uppercase text-text-muted">Show Arms Embargoes</label>
-          <div 
-            onClick={toggleEmbargoLayer}
-            className={`p-3 rounded-xl border cursor-pointer flex items-center justify-between transition-all duration-300 ${
-              showEmbargoLayer
-                ? 'bg-yellow-500/10 border-yellow-500/40 text-yellow-400'
-                : 'bg-[#1e2330]/50 border-transparent text-text-muted hover:text-white'
-            }`}
-          >
-            <span className="text-xs font-medium">Embargo Overlays</span>
-            <div className={`w-8 h-4 rounded-full transition-all relative ${showEmbargoLayer ? 'bg-yellow-500' : 'bg-border'}`}>
-              <div className={`absolute w-3.5 h-3.5 rounded-full bg-background top-[2px] transition-all ${showEmbargoLayer ? 'right-[2px]' : 'left-[2px]'}`} />
-            </div>
-          </div>
-          {/* CSV Export Button */}
-          <button
-            onClick={handleExportCSV}
-            className="mt-4 w-full py-2 bg-accent/10 text-accent rounded-lg hover:bg-accent/20 border border-accent/20"
-          >
-            Export Data (CSV)
-          </button>
-        </div>
+        {/* CSV Export Button */}
+        <button
+          onClick={handleExportCSV}
+          className="mt-4 w-full py-2 bg-accent/10 text-accent rounded-lg hover:bg-accent/20 border border-accent/20"
+        >
+          Export Data (CSV)
+        </button>
 
       </div>
     </div>

@@ -3,6 +3,33 @@ import * as d3 from 'd3';
 import { loadAllCountries } from '../../utils/dataLoader';
 import { isoToName, formatTIV } from '../../utils/formatters';
 
+// Consistent color mapping for countries and regions
+const COUNTRY_COLOR_MAP = {
+  // Regions (for region mode)
+  'Americas': '#3b82f6',
+  'Europe': '#ef4444',
+  'Africa': '#f59e0b',
+  'Asia': '#8b5cf6',
+  'Oceania': '#10b981',
+  'Middle East': '#06b6d4',
+  // Top countries (for country mode) - using distinct colors
+  'United States': '#3b82f6',
+  'Russia': '#ef4444',
+  'France': '#f59e0b',
+  'Germany': '#8b5cf6',
+  'United Kingdom': '#10b981',
+  'China': '#06b6d4',
+  'Israel': '#f97316',
+  'Sweden': '#ec4899',
+  'Spain': '#14b8a6',
+  'Italy': '#a855f7',
+  'Netherlands': '#0ea5e9',
+  'Canada': '#eab308',
+  'South Korea': '#6366f1',
+  'Poland': '#f43f5e',
+  'Other': '#64748b'
+};
+
 export default function ChordView({ arcs = [] }) {
   const svgRef = useRef(null);
   const wrapperRef = useRef(null);
@@ -109,10 +136,10 @@ export default function ChordView({ arcs = [] }) {
     const innerRadius = Math.min(width, height) * 0.5 - 120;
     const outerRadius = innerRadius + 15;
 
-    // Darkened Tableau10 scale
+    // Use consistent color mapping based on country/region name, not position
     const colorScale = d3.scaleOrdinal()
       .domain(names)
-      .range(d3.schemeTableau10.map(c => d3.color(c).darker(0.3).formatHex()));
+      .range(names.map(name => COUNTRY_COLOR_MAP[name] || '#64748b'));
 
     const svgNode = d3.select(svgRef.current);
     svgNode.selectAll('*').remove();
@@ -163,7 +190,7 @@ export default function ChordView({ arcs = [] }) {
       .enter().append('g');
 
     group.append('path')
-      .style('fill', d => colorScale(names[d.index]))
+      .style('fill', d => COUNTRY_COLOR_MAP[names[d.index]] || '#64748b')
       .style('stroke', '#0a0c10')
       .style('stroke-width', 2)
       .style('cursor', 'pointer')
