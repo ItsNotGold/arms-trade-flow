@@ -69,7 +69,7 @@ The project uses verified data from the Stockholm International Peace Research I
 - **Weapon Categories**: 7 main categories with detailed designations
 - **Update Frequency**: Annual, typically released in March
 
-For more information on SIPRI data methodology and access to raw data, visit [sipri.org](https://sipri.org/databases/armstransfers).
+For more information on SIPRI data methodology and access to raw data, visit [sipri.org](https://www.sipri.org/databases/armstransfers).
 
 ## Technology Stack
 
@@ -213,7 +213,7 @@ This project is open source and available under the MIT License.
 
 ## Data Attribution
 
-This project uses data from the Stockholm International Peace Research Institute (SIPRI) Arms Transfers Database (ATT). For more information, visit [sipri.org/databases/armstransfers](https://sipri.org/databases/armstransfers).
+This project uses data from the Stockholm International Peace Research Institute (SIPRI) Arms Transfers Database (ATT). For more information, visit [sipri.org/databases/armstransfers](https://www.sipri.org/databases/armstransfers).
 
 ## Support
 
