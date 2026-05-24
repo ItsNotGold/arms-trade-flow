@@ -1,5 +1,6 @@
 import React, { Suspense, lazy } from 'react';
 import { Routes, Route } from 'react-router-dom';
+import { Analytics } from '@vercel/analytics/react';
 import Navbar from './components/Navbar';
 import MapPage from './pages/MapPage';
 import MethodologyPage from './pages/MethodologyPage';
@@ -12,6 +13,7 @@ const ComparePage = lazy(() => import('./pages/ComparePage'));
 export default function App() {
   return (
     <div className="min-h-screen flex flex-col bg-background text-text-primary selection:bg-accent/20 selection:text-accent font-sans">
+      <Analytics />
       {/* Persistent Global Header Navbar */}
       <Navbar />
 
