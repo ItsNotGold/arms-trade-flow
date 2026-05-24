@@ -8,6 +8,10 @@ Arms Trade Flow provides comprehensive insights into international arms transfer
 
 **Live Demo:** [Arms Trade Flow](https://weapons-tracker.vercel.app)
 
+## Demo
+
+![Arms Trade Flow Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9kdDZueXd2ZWVidHpnMXc1ZmpjZmc5ZWI5cXBreGVncG5sbTF1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WKnCRPK8GF1dlSuRaB/giphy.gif)
+
 ## Features
 
 ### Multiple Visualization Modes
