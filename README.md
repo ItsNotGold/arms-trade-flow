@@ -1,12 +1,14 @@
-# Weapons Tracker
+# Arms Trade Flow
 
 An interactive data visualization platform that maps and analyzes global conventional weapons transfers using data from the Stockholm International Peace Research Institute (SIPRI).
 
 ## Overview
 
-Weapons Tracker provides comprehensive insights into international arms transfers through multiple interactive visualization modes. The platform allows users to explore weapon flows between countries, identify trading patterns, and understand geopolitical dynamics through weapon distribution data.
+Arms Trade Flow provides comprehensive insights into international arms transfers through multiple interactive visualization modes. The platform allows users to explore weapon flows between countries, identify trading patterns, and understand geopolitical dynamics through weapon distribution data.
 
-**Live Demo:** [Weapons Tracker](https://weapons-tracker.vercel.app)
+**Live Demo:** [Arms Trade Flow](https://weapons-tracker.vercel.app)
+
+![Globe View Demo](./GlobeView.gif)
 
 ## Features
 
@@ -39,6 +41,24 @@ Click any country to view:
 - Search weapon systems by designation and category
 - Instant navigation to selected country profiles
 
+### Timeline & Playback
+
+- Interactive timeline scrubber for year-by-year exploration
+- Animated playback with adjustable speed
+- Historical event markers and trend visualization
+
+### Bilateral Trade Comparison
+
+- Compare weapons transfers between any two countries
+- Detailed flow breakdown by weapon category and year
+- Bilateral trade imbalance analysis
+
+### Methodology & Documentation
+
+- Comprehensive documentation of data sources and methodology
+- SIPRI data attribution and limitations
+- Known gaps in coverage and data quality
+
 ## Data Source
 
 **SIPRI Arms Transfers Database (ATT)**
@@ -58,6 +78,8 @@ For more information on SIPRI data methodology and access to raw data, visit [si
 - **React 18** - UI framework with hooks for state management
 - **Zustand** - Global state management
 - **MapLibre GL** - 2D map rendering with OpenStreetMap
+- **TopoJSON** - GeoJSON processing for map topology
+- **CartoDB** - Map tiles and geographic data
 - **D3.js** - Chord diagram and data visualization
 - **Recharts** - Area charts and breakdowns
 - **React Globe.gl** - 3D globe visualization
@@ -126,8 +148,8 @@ src/
 │   └── Loading/        # Loading states and skeletons
 ├── pages/              # Page components
 │   ├── MapPage.jsx     # Main visualization page
-│   ├── ComparePage.jsx # (Future) Country comparison
-│   └── MethodologyPage.jsx # Documentation
+│   ├── ComparePage.jsx # Bilateral trade comparison
+│   └── MethodologyPage.jsx # Methodology and documentation
 ├── store/              # Zustand state management
 │   └── mapStore.js     # Global app state
 ├── utils/              # Utilities
@@ -180,11 +202,12 @@ Contributions are welcome. To contribute:
 4. Push to your branch: `git push origin feature/your-feature`
 5. Open a Pull Request with a clear description
 
-## Known Issues & Limitations
+## Known Limitations
 
-- SIPRI data typically includes transfers up to the previous year
-- Some microstates may have limited historical data
-- Older records (pre-1960s) are sparse
+- **Secret or classified transfers** are not captured in SIPRI's publicly available data
+- **Small arms and light weapons** are largely excluded from the database
+- **Licensed production and domestic refurbishments** are inconsistently reported
+- **TIV is a volume metric**, not a monetary value—it does not represent actual financial transaction costs
 
 ## Deployment
 
