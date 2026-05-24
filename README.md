@@ -110,7 +110,6 @@ For more information on SIPRI data methodology and access to raw data, visit [si
    npm run dev
    ```
 
-   The application will be available at `http://localhost:5173`
 
 ## Development
 
@@ -207,15 +206,6 @@ Contributions are welcome. To contribute:
 - **Licensed production and domestic refurbishments** are inconsistently reported
 - **TIV is a volume metric**, not a monetary value—it does not represent actual financial transaction costs
 
-## Deployment
-
-The project is configured for deployment on Vercel. Build the production version with:
-
-```bash
-npm run build
-```
-
-Then push to GitHub and connect the repository to Vercel for automatic deployments.
 
 ## License
 
