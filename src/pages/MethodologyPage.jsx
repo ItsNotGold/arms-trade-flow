@@ -63,19 +63,6 @@ export default function MethodologyPage() {
           </blockquote>
         </section>
 
-        {/* 5. HOW TO CITE THIS TOOL */}
-        <section className="mb-8">
-          <h2 className="text-2xl font-semibold mb-3">How to Cite This Tool</h2>
-          <p>Academic citation example:</p>
-          <pre className="bg-surface p-3 rounded-md text-xs overflow-x-auto">
-{`Doe, J., &amp; Smith, A. (2026). Weapons Tracker – Interactive visualisation of SIPRI conventional arms transfers. https://github.com/ItsNotGold/Weapons-tracker`}
-          </pre>
-          <p>Journalistic citation example:</p>
-          <pre className="bg-surface p-3 rounded-md text-xs overflow-x-auto">
-{`Weapons Tracker (2026) – https://github.com/ItsNotGold/Weapons-tracker`}
-          </pre>
-        </section>
-
         {/* 6. UPDATE SCHEDULE */}
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-3">Update Schedule</h2>
