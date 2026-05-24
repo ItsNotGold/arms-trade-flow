@@ -68,11 +68,11 @@ export default function MethodologyPage() {
           <h2 className="text-2xl font-semibold mb-3">How to Cite This Tool</h2>
           <p>Academic citation example:</p>
           <pre className="bg-surface p-3 rounded-md text-xs overflow-x-auto">
-{`Doe, J., &amp; Smith, A. (2026). Weapons Tracker – Interactive visualisation of SIPRI conventional arms transfers. https://github.com/your-repo/weapons-tracker`}
+{`Doe, J., &amp; Smith, A. (2026). Weapons Tracker – Interactive visualisation of SIPRI conventional arms transfers. https://github.com/ItsNotGold/Weapons-tracker`}
           </pre>
           <p>Journalistic citation example:</p>
           <pre className="bg-surface p-3 rounded-md text-xs overflow-x-auto">
-{`Weapons Tracker (2026) – https://github.com/your-repo/weapons-tracker`}
+{`Weapons Tracker (2026) – https://github.com/ItsNotGold/Weapons-tracker`}
           </pre>
         </section>
 
@@ -89,7 +89,7 @@ export default function MethodologyPage() {
             The project is hosted on GitHub. Feel free to open issues, submit pull‑requests or suggest improvements.
           </p>
           <p>
-            <a href="https://github.com/your-repo/weapons-tracker" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/ItsNotGold/Weapons-tracker" target="_blank" rel="noopener noreferrer"
                className="text-accent underline hover:text-accent-light flex items-center gap-1">
               <ExternalLink size={16} /> GitHub Repository
             </a>

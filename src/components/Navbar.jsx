@@ -39,7 +39,7 @@ export default function Navbar() {
         {/* Call to Action - GitHub link (Open Source theme) */}
         <div className="flex items-center gap-3">
           <a
-            href="https://github.com"
+            href="https://github.com/ItsNotGold/Weapons-tracker"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:flex items-center gap-1.5 px-3.5 py-1.5 bg-surface hover:bg-border text-xs text-text-primary font-medium rounded-xl border border-border transition-all duration-200"
