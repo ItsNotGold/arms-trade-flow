@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useMemo } from 'react';
 import SkeletonBox from '../../components/Loading/SkeletonBox';
-import { X, Navigation, Crosshair, Share2 } from 'lucide-react';
+import { X, Navigation, Crosshair } from 'lucide-react';
 import { useMapStore } from '../../store/mapStore';
 import { loadCountryProfile } from '../../utils/dataLoader';
 import { formatTIV, isoToName, categoryColor } from '../../utils/formatters';
@@ -9,21 +9,7 @@ import { AreaChart, Area, XAxis, Tooltip as RechartsTooltip, ResponsiveContainer
 export default function CountryPanel() {
   const { focusedCountry, setFocusedCountry, yearRange, activeWeaponCategories, minTiv, activeView } = useMapStore();
 
-  const handleShare = () => {
-    const params = new URLSearchParams();
-    params.set('years', `${yearRange[0]}-${yearRange[1]}`);
-    if (activeWeaponCategories.length) params.set('categories', activeWeaponCategories.join(','));
-    params.set('minTiv', minTiv);
-    params.set('view', activeView);
-    if (focusedCountry) params.set('country', focusedCountry);
-    const shareUrl = `${window.location.origin}${window.location.pathname}?${params.toString()}`;
-    navigator.clipboard.writeText(shareUrl).then(() => {
-      // Simple toast could be added; using alert for now
-      alert('Shareable link copied to clipboard');
-    }).catch(() => {
-      alert('Failed to copy link');
-    });
-  };
+
   const [profile, setProfile] = useState(null);
   const [activeTab, setActiveTab] = useState('exports');
   const [breakdownMode, setBreakdownMode] = useState('exports');
@@ -146,20 +132,12 @@ export default function CountryPanel() {
       {profile && (
         <>
           {/* Header */}
-      <div className="p-6 pb-4 shrink-0">
+      <div className="p-6 pb-4 shrink-0 border-b border-[#1e2330]">
                   <button 
             onClick={() => setFocusedCountry(null)}
             className="absolute top-4 right-4 text-text-muted hover:text-white p-1 rounded-md hover:bg-white/10 transition-colors"
           >
             <X className="w-5 h-5" />
-          </button>
-          {/* Share button */}
-          <button 
-            onClick={handleShare}
-            className="absolute top-4 right-12 text-text-muted hover:text-white p-1 rounded-md hover:bg-white/10 transition-colors"
-            title="Copy shareable link"
-          >
-            <Share2 className="w-5 h-5" />
           </button>
         
         <h2 className="text-3xl font-bold text-white mb-1 pr-8 leading-tight">{profile.name}</h2>
@@ -180,8 +158,8 @@ export default function CountryPanel() {
       </div>
 
       {/* Tabs */}
-      <div className="px-6 shrink-0">
-        <div className="flex gap-6 border-b border-[#1e2330]">
+      <div className="px-6 shrink-0 border-b border-[#1e2330]">
+        <div className="flex gap-6">
           {['exports', 'imports', 'breakdown'].map(tab => (
             <button
               key={tab}
@@ -199,32 +177,32 @@ export default function CountryPanel() {
         </div>
       </div>
 
-      {/* Scrollable Tab Content */}
-      <div className="flex-1 overflow-hidden flex flex-col p-6">
+      {/* Scrollable Content Area */}
+      <div className="flex-1 overflow-y-auto p-6 space-y-6">
         {activeTab === 'exports' && (
-          <div className="flex-1 flex flex-col h-full">
-            <h3 className="text-sm font-semibold text-text-muted uppercase tracking-wider mb-2 shrink-0">Top Recipients</h3>
+          <div>
+            <h3 className="text-sm font-semibold text-text-muted uppercase tracking-wider mb-2">Top Recipients</h3>
             {renderPartners(profile.top_export_partners, 'exports')}
           </div>
         )}
 
         {activeTab === 'imports' && (
-          <div className="flex-1 flex flex-col h-full">
+          <div>
             {profile.top_import_partners?.length > 0 && (
-              <div className="shrink-0 mb-4 bg-surface p-3 rounded-lg border border-border">
+              <div className="mb-4 bg-surface p-3 rounded-lg border border-border">
                 <div className="text-xs text-text-muted">Dependency Score</div>
                 <div className={`text-sm font-medium ${depColor}`}>
                   {depScore.toFixed(1)}% of imports come from {isoToName(profile.top_import_partners[0].iso)}
                 </div>
               </div>
             )}
-            <h3 className="text-sm font-semibold text-text-muted uppercase tracking-wider mb-2 shrink-0">Top Suppliers</h3>
+            <h3 className="text-sm font-semibold text-text-muted uppercase tracking-wider mb-2">Top Suppliers</h3>
             {renderPartners(profile.top_import_partners, 'imports')}
           </div>
         )}
 
         {activeTab === 'breakdown' && (
-          <div className="flex flex-col h-full">
+          <div>
             <div className="flex gap-2 mb-4 shrink-0 bg-[#1e2330] p-1 rounded-lg self-start">
               <button
                 onClick={() => setBreakdownMode('exports')}
@@ -241,9 +219,9 @@ export default function CountryPanel() {
             </div>
             
             {!breakdownData.length ? (
-              <div className="text-text-muted text-sm flex-1 flex items-center justify-center">No category data available</div>
+              <div className="text-text-muted text-sm py-8 flex items-center justify-center">No category data available</div>
             ) : (
-              <div className="flex-1 min-h-[220px]" style={{ minHeight: 220 }}>
+              <div className="h-[220px]" style={{ minHeight: 220 }}>
                 <ResponsiveContainer width="100%" height="100%">
                   <PieChart>
                     <Pie 
@@ -271,7 +249,7 @@ export default function CountryPanel() {
         )}
 
         {/* Yearly Trend Chart */}
-        <div className="mt-auto shrink-0 pt-6 border-t border-[#1e2330]">
+        <div className="pt-4 border-t border-[#1e2330]">
           <h3 className="text-xs font-semibold text-text-muted uppercase tracking-wider mb-3">Yearly Trend</h3>
           <div className="h-[120px] w-full" style={{ minHeight: 120 }}>
             <ResponsiveContainer width="100%" height="100%">
@@ -297,16 +275,16 @@ export default function CountryPanel() {
             </ResponsiveContainer>
           </div>
         </div>
+      </div>
 
-        {/* Focus Button */}
-        <button 
-          onClick={handleFocusGlobe}
-          className="mt-6 shrink-0 w-full py-3 bg-[#1e2330] hover:bg-[#2d3a52] text-white text-sm font-semibold rounded-xl flex items-center justify-center gap-2 transition-colors border border-border"
-        >
-          <Crosshair className="w-4 h-4 text-accent" />
-          Focus on Map
-          </button>
-        </div>
+      {/* Focus Button - Outside scroll area */}
+      <button 
+        onClick={handleFocusGlobe}
+        className="shrink-0 mx-6 mb-6 w-[calc(100%-48px)] py-3 bg-[#1e2330] hover:bg-[#2d3a52] text-white text-sm font-semibold rounded-xl flex items-center justify-center gap-2 transition-colors border border-border"
+      >
+        <Crosshair className="w-4 h-4 text-accent" />
+        Focus on Map
+      </button>
       </>)}
     </div>
   );
