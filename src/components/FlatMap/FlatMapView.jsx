@@ -714,14 +714,10 @@ export default function FlatMapView({ arcs = [], onArcClick, onCountryClick }) {
         Map View
       </div>
 
-      {/* Attribution Text - moved to bottom-left */}
+      {/* Attribution Text - appears above timeline */}
       <div
-        className="text-[10px] text-text-muted bg-black/40 backdrop-blur-sm px-2 py-1 rounded"
+        className="absolute bottom-16 left-4 text-[10px] text-text-muted bg-black/40 backdrop-blur-sm px-2 py-1 rounded z-30"
         style={{
-          position: 'absolute',
-          bottom: '16px',
-          left: '16px',
-          zIndex: 10,
           maxWidth: '300px'
         }}
       >

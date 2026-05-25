@@ -16,7 +16,7 @@ export default function CategoryLegend() {
   const { activeWeaponCategories, toggleWeaponCategory } = useMapStore();
 
   return (
-    <div className="absolute bottom-4 left-4 flex gap-2 bg-[#0d101e]/80 backdrop-blur-md border border-[#1e2330] p-2 rounded-md text-sm text-text-muted">
+    <div className="absolute bottom-16 left-4 flex gap-2 bg-[#0d101e]/80 backdrop-blur-md border border-[#1e2330] p-2 rounded-md text-sm text-text-muted z-30">
       {CATEGORIES.map((cat) => {
         const isActive = activeWeaponCategories.length === 0 || activeWeaponCategories.includes(cat);
         return (

@@ -133,7 +133,7 @@ export default function TimelineBar() {
   const tivValue = yearlyTotals[currentYear] || 0;
 
   return (
-    <div className={`fixed bottom-0 left-0 right-0 bg-[#0a0c10]/92 backdrop-blur-md border-t border-[#1e2330] z-30 flex items-center justify-between px-6 select-none transition-all duration-300 ${
+    <div className={`w-full bg-[#0a0c10]/92 backdrop-blur-md border-t border-[#1e2330] z-30 flex items-center justify-between px-6 select-none transition-all duration-300 ${
       isCollapsed ? 'h-[48px]' : 'h-[72px]'
     }`}>
       

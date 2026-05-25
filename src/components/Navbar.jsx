@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink, Link } from 'react-router-dom';
-import { Shield, Map, ArrowLeftRight, BookOpen, ExternalLink } from 'lucide-react';
+import { Globe, Map, ArrowLeftRight, BookOpen, ExternalLink } from 'lucide-react';
 
 export default function Navbar() {
   const activeClass = ({ isActive }) =>
@@ -12,11 +12,11 @@ export default function Navbar() {
 
   return (
     <nav className="sticky top-0 z-50 bg-[#0a0c10] border-b border-[#1e2330] backdrop-blur-md bg-opacity-95">
-      <div className="max-w-7xl mx-auto px-4 md:px-8 h-16 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-4 md:px-8 h-16 flex items-center justify-center">
         {/* Branding Logo */}
-        <Link to="/" className="flex items-center gap-2.5 group">
+        <Link to="/" className="absolute left-4 md:left-8 flex items-center gap-2.5 group">
           <div className="w-9 h-9 rounded-xl bg-accent/10 border border-accent/25 flex items-center justify-center text-accent group-hover:scale-105 group-hover:bg-accent/20 transition-all duration-300 shadow-[0_0_10px_rgba(59,130,246,0.1)]">
-            <Shield className="w-5 h-5" />
+            <Globe className="w-5 h-5" />
           </div>
           <span className="font-display font-bold text-lg tracking-tight text-text-primary group-hover:text-accent transition-colors duration-300">
             Arms Trade Flow
@@ -37,7 +37,7 @@ export default function Navbar() {
         </div>
 
         {/* Call to Action - GitHub link (Open Source theme) */}
-        <div className="flex items-center gap-3">
+        <div className="absolute right-4 md:right-8 flex items-center gap-3">
           <a
             href="https://github.com/ItsNotGold/Weapons-tracker"
             target="_blank"

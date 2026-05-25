@@ -96,7 +96,7 @@ export default function MapPage() {
       {(activeView === 'globe' || activeView === 'flat') && <SearchBar />}
 
       {/* Main visualization area */}
-      <div className="absolute inset-0 pb-[80px]">
+      <div className="flex-grow relative min-h-0">
         {activeView === 'globe' && <GlobeView arcs={arcs} onArcClick={(arc) => setSelectedFlow(arc)} />}
         {activeView === 'flat' && (
           <Suspense fallback={<LoadingSpinner />}> 
@@ -108,23 +108,25 @@ export default function MapPage() {
             <ChordView arcs={arcs} />
           </Suspense>
         )}
-      </div>
 
-      {/* View selector bar - fixed above timeline */}
-      <div className="fixed bottom-[72px] right-4 flex bg-surface p-1 rounded-xl border border-border shadow-lg gap-1 z-20">
-        {['globe', 'flat', 'chord'].map((view) => (
-          <button
-            key={view}
-            onClick={() => setActiveView(view)}
-            className={`px-3 py-1 rounded text-xs transition-colors focus:outline-none ${activeView === view ? 'bg-accent text-white font-medium' : 'text-text-muted hover:text-text-primary'}`}
-          >
-            {view.charAt(0).toUpperCase() + view.slice(1)}
-          </button>
-        ))}
-      </div>
+        {/* Controls bar - positioned at bottom of visualization, above timeline */}
+        <div className="absolute bottom-16 right-4 flex bg-surface p-1 rounded-xl border border-border shadow-lg gap-1 z-30 translate-y-[-0px]">
+          {['globe', 'flat', 'chord'].map((view) => (
+            <button
+              key={view}
+              onClick={() => setActiveView(view)}
+              className={`px-3 py-1 rounded text-xs transition-colors focus:outline-none ${activeView === view ? 'bg-accent text-white font-medium' : 'text-text-muted hover:text-text-primary'}`}
+            >
+              {view.charAt(0).toUpperCase() + view.slice(1)}
+            </button>
+          ))}
+        </div>
 
-      {/* Timeline Bar */}
-      <TimelineBar />
+        {/* Timeline Bar - positioned at absolute bottom */}
+        <div className="absolute bottom-0 left-0 right-0 z-30 translate-y-[20px]">
+          <TimelineBar />
+        </div>
+      </div>
 
       {/* Country detail panel — slides in from right when a country is clicked */}
       <CountryPanel />
