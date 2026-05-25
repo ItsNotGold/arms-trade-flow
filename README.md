@@ -6,7 +6,7 @@ An interactive data visualization platform that maps and analyzes global convent
 
 Arms Trade Flow provides comprehensive insights into international arms transfers through multiple interactive visualization modes. The platform allows users to explore weapon flows between countries, identify trading patterns, and understand geopolitical dynamics through weapon distribution data.
 
-**Live Demo:** [Arms Trade Flow](https://weapons-tracker.vercel.app)
+**Live Demo:** [Arms Trade Flow](https://arms-trade-flow-swart.vercel.app)
 
 ## Features
 

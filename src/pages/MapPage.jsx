@@ -110,11 +110,8 @@ export default function MapPage() {
         )}
       </div>
 
-      {/* Timeline Bar */}
-      <TimelineBar />
-
-      {/* Bottom‑right view selector (moved up to avoid overlap with TimelineBar) */}
-      <div className="absolute bottom-[88px] right-4 flex bg-surface p-1 rounded-xl border border-border shadow-lg gap-1 z-20">
+      {/* View selector bar - fixed above timeline */}
+      <div className="fixed bottom-[72px] right-4 flex bg-surface p-1 rounded-xl border border-border shadow-lg gap-1 z-20">
         {['globe', 'flat', 'chord'].map((view) => (
           <button
             key={view}
@@ -125,6 +122,9 @@ export default function MapPage() {
           </button>
         ))}
       </div>
+
+      {/* Timeline Bar */}
+      <TimelineBar />
 
       {/* Country detail panel — slides in from right when a country is clicked */}
       <CountryPanel />

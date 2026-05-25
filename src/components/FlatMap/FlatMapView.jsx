@@ -633,6 +633,7 @@ export default function FlatMapView({ arcs = [], onArcClick, onCountryClick }) {
         onMouseMove={onMouseMove}
         onMouseLeave={onMouseLeave}
         onClick={onClick}
+        attributionControl={false}
         onLoad={(e) => {
           // Remove any symbol/text layers that might have been included by a fetched/merged style
           try {
@@ -713,16 +714,18 @@ export default function FlatMapView({ arcs = [], onArcClick, onCountryClick }) {
         Map View
       </div>
 
+      {/* Attribution Text - moved to bottom-left */}
       <div
-        className="text-[10px] text-text-muted bg-transparent px-2 py-1 rounded backdrop-blur-md"
+        className="text-[10px] text-text-muted bg-black/40 backdrop-blur-sm px-2 py-1 rounded"
         style={{
           position: 'absolute',
           bottom: '16px',
-          right: '16px',
-          zIndex: 10
+          left: '16px',
+          zIndex: 10,
+          maxWidth: '300px'
         }}
       >
-        Tiles © CartoDB | Data © SIPRI
+        © OpenStreetMap contributors © CARTO | MapLibre | Tiles © CartoDB | Data © SIPRI
       </div>
 
       {/* Country Hover Tooltip */}
