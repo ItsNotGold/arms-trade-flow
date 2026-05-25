@@ -179,6 +179,7 @@ export default function ComparePage() {
               <thead className="bg-surface text-text-muted border-b border-border">
                 <tr>
                   <th className="p-4">Military System Type</th>
+                  <th className="p-4">Category</th>
                   <th className="p-4">Volume / Quantity</th>
                   <th className="p-4">Delivery Status</th>
                   <th className="p-4">Primary Treaty Monitor Source</th>
@@ -188,6 +189,7 @@ export default function ComparePage() {
                 {data.map((flow, idx) => (
                   <tr key={idx} className="hover:bg-surface/50 transition-all duration-150">
                     <td className="p-4 text-text-primary font-semibold font-sans">{flow.designation}</td>
+                    <td className="p-4 text-text-primary font-sans">{flow.category}</td>
                     <td className="p-4 font-bold text-accent">{flow.quantity}</td>
                     <td className="p-4 text-text-muted">Completed ({flow.year})</td>
                     <td className="p-4 text-text-muted flex items-center gap-2">

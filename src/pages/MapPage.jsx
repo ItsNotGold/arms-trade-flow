@@ -123,7 +123,7 @@ export default function MapPage() {
         </div>
 
         {/* Timeline Bar - positioned at absolute bottom */}
-        <div className="absolute bottom-0 left-0 right-0 z-30 translate-y-[20px]">
+        <div className="absolute bottom-0 left-0 right-0 z-30 translate-y-[5px]">
           <TimelineBar />
         </div>
       </div>
